@@ -18,8 +18,7 @@ def extract_company_bert(text):
     except:
         return None
     return None
-
-# Apply only to first 50 rows
+    
 df.loc['company'] = df.loc['company_profile'].apply(extract_company_bert)
 
 # Save the updated DataFrame
