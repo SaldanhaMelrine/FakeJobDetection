@@ -3,7 +3,7 @@ import numpy as np
 # Load datasets
 emscad = pd.read_csv("/mnt/data/EMSCAD_with_Company.csv") #updated EMSCAD With company
 nigerian = pd.read_csv("/mnt/data/CompiledjobListNigeria.csv")
-# Standardize Nigerian column names
+# Standardizing Nigerian column names
 nigerian = nigerian.rename(columns={
     'job_title': 'title',
     'company_desc': 'company_profile',
@@ -13,7 +13,7 @@ nigerian = nigerian.rename(columns={
     'company_name': 'company',
     'label': 'fraudulent'
 })
-# label to binary
+# Converting label to binary
 nigerian['fraudulent'] = nigerian['fraudulent'].map({'t': 1, 'f': 0})
 # Final schema (aligned to EMSCAD structure)
 common_cols = [
