@@ -15,7 +15,7 @@ from imblearn.under_sampling import RandomUnderSampler
 import matplotlib.pyplot as plt
 from sklearn.model_selection import cross_validate
 
-df = pd.read_csv(/content/Final_Job_Postings.csv")
+df = pd.read_csv("/content/Final_Job_Postings.csv")
 
 # Combine text fields
 df['text_all'] = df[['title', 'company_profile', 'description', 'requirements', 'benefits']].fillna('').agg(' '.join, axis=1)
