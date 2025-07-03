@@ -3,7 +3,7 @@ import pandas as pd
 # Load the integrated dataset
 combined_df = pd.read_csv("/content/Integrated_Job_Postings.csv") #Integrated Dataset
 
-# Load the company cred indicators
+# Load the company-level indicators
 augmented = pd.read_csv("/content/Company_Cred_Data.csv") #Company cred dataset (manually collected)
 augmented = augmented.drop(columns=['Unnamed: 0'], errors='ignore').rename(columns={
     'extracted_company': 'company',
