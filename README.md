@@ -1,10 +1,10 @@
 # Fake Job Detection using AI and NLP
 
-This project investigates the detection of fake job postings using machine learning and natural language processing (NLP) techniques. It integrates structured metadata, linguistic cues, and credibility signals to build interpretable models capable of identifying fraudulent job listings.
+This research investigates the detection of fake job postings using machine learning and natural language processing (NLP) techniques. It integrates structured metadata, linguistic cues, and credibility signals to build interpretable models capable of identifying fraudulent job listings.
 
 ## Research Focus
 
-The primary goal is to explore AI and NLP in fake job detection and how different feature types—such as linguistic, structural, metadata, and credibility-based indicators—affect the performance and explainability of fake job detection models. The study also examines the impact of class imbalance and representation bias on prediction outcomes.
+The primary goal is to explore AI and NLP in fake job detection and how different feature types such as linguistic, structural, metadata, and credibility-based indicators affect the performance and explainability of fake job detection models. The study also examines the impact of class imbalance and representation bias on prediction outcomes.
 
 ---
 
