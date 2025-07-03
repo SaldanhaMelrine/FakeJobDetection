@@ -70,4 +70,4 @@ df = df.merge(salary_map, how='left', left_on='mapped_role', right_on='role')
 df.drop(columns=['role'], inplace=True)
 df.rename(columns={'expected_salary': 'role_expected_salary'}, inplace=True)
 
-# df.to_csv("Job_Postings_with_Expected_Salary_and_GDP.csv", index=False)
+df.to_csv("Final_Job_Postings.csv", index=False)
