@@ -2,7 +2,7 @@ import pandas as pd
 from fuzzywuzzy import process
 
 # Load the job postings dataset
-df = pd.read_csv("Job_Postings_with_Salary_Extracted.csv")
+df = pd.read_csv("content/Job_Postings_with_Salary_Extracted.csv")
 
 # Extract country and assign GDP values
 df['country'] = df['location'].apply(lambda x: str(x).split(',')[0].strip() if pd.notna(x) else 'Unknown')
