@@ -1,0 +1,1502 @@
+Unnamed: 0,extracted_company,fraudulent,Review,has_website,year,employees
+0.0,Food52,f,1.5,t,2009.0,51 to 200 employees
+1.0,90 Seconds,f,3.8,t,2010.0,51 to 200 employees
+2.0,Valor Services,f,2.6,t,1991.0,"1,001 to 5,000 employees"
+3.0,Esri,f,3.9,t,1969.0,"1,001 to 5,000 employees"
+4.0,SpotSource Solutions LLC,f,4.0,t,2012.0,2-10 employees
+6.0,Fonpit AG,f,3.4,f,2009.0,70 employees
+7.0,Airenvy,f,4.0,t,2013.0,1 to 50 employees
+8.0,IT Service Management,f,3.4,t,1995.0,11-50 employees
+9.0,Novitex Enterprise Solutions,f,1.3,f,2013.0,"More than 10,000 employees"
+14.0,Adthena,f,4.5,t,2012.0,51 to 200 employees
+15.0,Jungle Ventures,f,4.6,t,2012.0,11-50 employees
+16.0,HoneyBook,f,3.8,t,2013.0,51 to 200 employees
+17.0,Spectrum Learning,f,5.0,t,1995.0,2-10 employees
+18.0,Kettle,f,4.1,t,2009.0,51 to 200 employees
+20.0,IntelliBright,f,4.3,t,2009.0,1 to 50 employees
+22.0,Upstream,f,5.0,t,2001.0,201 to 500 Employees
+23.0,WDM Group,f,3.1,t,2006.0,51 to 200 employees
+25.0,i28 Technologies,f,4.3,t,2010.0,1 to 50 employees
+26.0,TradeGecko,f,3.4,t,2012.0,51 to 200 employees
+27.0,Roland and Associates Roland & Associates,f,4.0,t,1982.0,1 to 50 employees
+32.0,AAA KARTAK,f,4.1,t,1956.0,51-200 employees
+34.0,Karmarama,f,5.0,t,2000.0,"501 to 1,000 employees"
+45.0,"ABC Supply Co., Inc",f,3.8,t,1982.0,"More than 10,000 employees"
+46.0,Bank,f,3.8,t,1870.0,"More than 10,000 employees"
+50.0,PGI,f,3.0,t,1991.0,"1,001 to 5,000 employees"
+52.0,Namely,f,5.0,t,2012.0,201 to 500 Employees
+55.0,Netguru,f,3.9,t,2008.0,"501 to 1,000 employees"
+61.0,Red Star Yeast Company LLC,f,2.7,t,2004.0,51 to 200 employees
+73.0,TELL,f,4.3,f,1992.0,11-50 employees
+74.0,reEmbedit,f,3.4,t,1997.0,"501 to 1,000 employees"
+78.0,Hotel Chocolat,f,3.9,t,1993.0,1001 to 5000 Employees
+83.0,B,f,4.7,t,1986.0,2-10 employees
+86.0,Google,f,4.3,t,1998.0,"More than 10,000 employees"
+87.0,Mindscape,f,4.0,t,1983.0,1 to 50 employees
+93.0,Green Street Advisors,f,4.3,t,1985.0,"501 to 1,000 employees"
+96.0,dopios,f,4.0,t,2012.0,2-10 employees
+98.0,Super Soccer Stars,f,3.3,t,2000.0,51 to 200 employees
+99.0,Change Automotive Recruitment,f,3.8,t,2014.0,2-10 employees
+103.0,Industrial Color Software,f,2.6,t,1991.0,51 to 200 employees
+104.0,LendInvest,f,4.3,t,2008.0,201 to 500 Employees
+106.0,Refined Resources,t,4.8,f,2008.0,51-200 employees
+118.0,Renewable Energy and Environmental Protection,f,3.5,f,2011.0,51 to 200 employees
+121.0,GetCloudServices,f,3.0,f,2009.0,11-50 employees
+123.0,Forward Partners,f,4.6,t,2013.0,11-50 employees
+129.0,Simworx,f,3.0,t,1997.0,11-50 employees
+130.0,WebLinc,f,3.7,t,1994.0,51 to 200 employees
+132.0,Intercom,f,3.9,t,2011.0,"501 to 1,000 employees"
+133.0,"Kappa Search, Inc",f,4.4,t,1992.0,1 to 50 employees
+134.0,Sequoia Capital,f,3.7,t,1972.0,51 to 200 employees
+137.0,hello world talents,f,4.1,t,2019.0,2-10 employees
+141.0,?s Row,f,4.2,t,1993.0,201 to 500 employees
+142.0,AbZorba Games,f,5.0,t,2013.0,11-50 employees
+143.0,United Med Force,f,3.4,t,2001.0,201 to 500 Employees
+144.0,HTS Ag,f,3.6,t,1996.0,1 to 50 employees
+148.0,etsmart,f,3.2,t,1986.0,"More than 10,000 employees"
+150.0,MarketInvoice,f,4.3,f,2011.0,2-10 employees
+172.0,StartTech Ventures,f,4.8,t,2012.0,1 to 50 employees
+174.0,Yazamo,f,4.8,t,2011.0,1 to 50 employees
+176.0,Dering Hall,f,3.7,t,2011.0,11-50 employees
+177.0,Neverbland,f,5.0,t,2009.0,1 to 50 employees
+183.0,Elite Environmental Group LLC,f,4.1,t,2012.0,11-50 employees
+186.0,EVH,f,4.6,t,1993.0,201-500 employees
+188.0,EME International,f,3.4,t,2004.0,51-200 employees
+189.0,Digital Shadows,f,5.0,t,2011.0,51-200 employees
+192.0,7Indigo New Media,f,1.2,t,2007.0,11-50 employees
+195.0,VML London,f,3.5,t,2023.0,"More than 10,000 employees"
+196.0,Ramberg Associates,f,3.0,t,1976.0,2-10 employees
+197.0,Edison International,t,3.5,t,1987.0,"More than 10,000 employees"
+201.0,Crest Financial,f,2.6,t,2005.0,201 to 500 employees
+202.0,BCV,f,3.4,t,2009.0,51 to 200 employees
+203.0,Playfair Capital,f,4.6,t,2013.0,1 to 50 employees
+225.0,Condé Nast Traveler Magazine,f,3.2,t,1909.0,"1,001 to 5,000 employees"
+226.0,Victor,f,3.4,t,2011.0,51 to 200 employees
+227.0,incrediblue,f,3.5,t,2012.0,11-50 employees
+229.0,Walkover,f,3.9,t,2010.0,51 to 200 Employees
+232.0,Young & Shand,f,3.0,t,2009.0,11-50 employees
+233.0,EUROPEAN DYNAMICS,f,3.8,t,1993.0,"501 to 1,000 employees"
+245.0,Tile,f,4.2,t,2012.0,51 to 200 employees
+246.0,HGS,f,5.0,t,2000.0,"More than 10,000 employees"
+266.0,Squiz,f,3.4,t,1998.0,201 to 500 Employees
+270.0,In2media,f,5.0,t,1994.0,1 to 50 employees
+281.0,Stack Exchange,f,1.7,t,2009.0,"501 to 1,000 employees"
+282.0,Amani Institute,f,5.0,t,2010.0,1 to 50 employees
+297.0,Space Ape Games,f,4.8,t,2012.0,51 to 200 employees
+298.0,CallCentre People Recruitment,f,5.0,t,1985.0,2-10 employees
+310.0,One Zero Capital,f,4.6,t,1999.0,11 to 50 employees
+313.0,Casper,f,3.7,t,2014.0,201 to 500 Employees
+318.0,Cylance,f,3.5,t,2012.0,"501 to 1,000 employees"
+323.0,Avocarrot,f,4.0,f,2013.0,1 to 50 employees
+325.0,SilverStripe,f,4.6,t,2000.0,51 to 200 employees
+327.0,GPL Technologies,f,3.1,t,2003.0,1 to 50 employees
+330.0,United Cerebral Palsy of Oregon & SW Washington,f,3.7,t,2022.0,1 to 50 employees
+337.0,StudyHall,f,4.0,t,2021.0,1 to 50 employees
+339.0,Shapeways,f,3.9,t,2007.0,51 to 200 employees
+349.0,Tidewater Finance Co,f,3.0,t,1992.0,51 to 200 employees
+350.0,nakedhearts,f,5.0,t,2023.0,2-10 employees
+351.0,The Beans Group,f,3.0,t,2005.0,51 to 200 employees
+353.0,CSD,f,3.5,t,2012.0,"1,001-5,000 employees"
+354.0,Argenta Field Solutions,f,4.1,t,2011.0,51 to 200 employees
+357.0,RhodeCode,f,4.5,t,2013.0,1 to 50 employees
+358.0,Talent Advertising Agency) Creative Group,f,4.1,t,1970.0,51 to 200 employees
+371.0,"Horizon Software International, LLC",f,3.4,t,1992.0,51 to 200 employees
+372.0,EatAds,f,4.0,t,2011.0,2-10 employees
+374.0,Pty Ltd,f,4.0,t,2019.0,2-10 employees
+376.0,Depop,f,3.8,t,2011.0,201 to 500 Employees
+377.0,Mobile Trainers,f,5.0,t,2020.0,1 to 50 employees
+378.0,Inside Job Agency,f,4.2,t,2013.0,1 to 50 employees
+379.0,Fundation,f,4.3,t,2011.0,51 to 200 employees
+381.0,Gelato Group,f,4.5,t,2007.0,201-500 employees
+388.0,OneReach,f,3.7,t,2013.0,201-500 employees
+392.0,Optimy,f,4.2,t,2011.0,51-200 employees
+397.0,MERL,f,4.2,t,1991.0,51 to 200 employees
+398.0,FBN,f,2.7,t,2014.0,"501 to 1,000 employees"
+399.0,Siemens Enterprise Communications,f,4.2,t,2008.0,"1,001-5,000 employees"
+406.0,MarketMaker4,f,3.3,t,2004.0,201 to 500 Employees
+407.0,Balanced Labs,f,1.0,t,2022.0,11-50 employees
+411.0,Community Action,f,3.6,t,1964.0,201-500 employees
+416.0,SmartBrief,f,2.9,t,1999.0,201 to 500 employees
+418.0,NFP,f,3.8,t,1999.0,"5,001 to 10,000 employees"
+422.0,Visual BI,f,4.0,t,2015.0,201-500 employees
+425.0,Riverside,f,4.8,t,1988.0,201 to 500 employees
+427.0,Bluebridge,f,5.0,t,2006.0,11-50 employees
+429.0,ClearSpring,f,5.0,t,1993.0,11-50 employees
+437.0,Advisor Websites,f,4.3,t,2012.0,1 to 50 Employees
+444.0,Franq,f,3.4,t,2019.0,51 to 200 employees
+446.0,LHBS,f,2.9,t,1929.0,201-500 employees
+448.0,GoldLeaf HomeCare,f,3.9,t,2011.0,51-200 employees
+450.0,RL Zapin Associates,f,4.0,t,2001.0,1 to 50 employees
+451.0,RHB Recruitment Ltd,f,3.5,t,2018.0,2-10 employees
+453.0,Kin,f,3.1,t,2016.0,"501 to 1,000 employees"
+454.0,LinkedIn,f,4.0,t,2003.0,"More than 10,000 employees"
+455.0,BizReach,f,3.6,t,2008.0,201 to 500 employees
+457.0,PathSource,f,4.9,t,2009.0,11-50 employees
+461.0,CAKE,f,3.7,t,2009.0,201-500 employees
+462.0,Applied Memetics LLC,f,3.3,t,2012.0,51-200 employees
+463.0,Clear,f,5.0,t,2010.0,"1,001 to 5,000 employees"
+465.0,PEI Media,f,3.9,t,2001.0,201 to 500 Employees
+466.0,Viva Online Services,f,2.3,t,2010.0,"1,001 to 5,000 employees"
+473.0,Maxnet,f,4.3,t,2005.0,1 to 50 employees
+478.0,ticketscript,f,4.0,t,2006.0,51 to 200 employees
+479.0,IBEX Global,f,3.5,t,2002.0,"More than 10,000 employees"
+482.0,ValleySoft,f,4.3,f,2006.0,1 to 50 employees
+484.0,DICE,f,4.2,t,1990.0,"501 to 1,000 employees"
+485.0,Crossroads Staffing,f,3.7,t,2006.0,"501 to 1,000 employees"
+496.0,Eviture,f,3.5,t,1994.0,51-200 employees
+504.0,Veeshee,f,2.0,t,2011.0,11-50 employees
+505.0,L O OP,f,4.1,t,2019.0,51-200 employees
+508.0,Single Solution Provider,f,4.5,t,2019.0,1 to 50 employees
+509.0,WellAware,f,3.8,t,2012.0,51-200 employees
+516.0,Albany Charter School Network,f,3.6,t,2009.0,51-200 employees
+520.0,Softbank Ventures Korea,f,3.3,t,1981.0,"More than 10,000 employees"
+523.0,Cohaesus,f,4.0,t,2003.0,51-200 employees
+525.0,RoyalCactus,f,4.0,f,2010.0,11 employees
+540.0,"Food, Pharmaceutical and Technical",f,3.9,t,1988.0,201 to 500 employees
+549.0,EROAD,f,3.2,t,2000.0,201 to 500 employees
+554.0,Proficio Mortgage,f,5.0,t,2012.0,51 to 200 employees
+555.0,??? µ?,f,2.9,t,1994.0,11-50 employees
+561.0,Vayu,f,2.9,t,2023.0,1 to 50 employees
+578.0,Hawkeye Recruitment,f,3.6,t,2001.0,"501 to 1,000 employees"
+593.0,Jeri Davis International,f,3.9,t,1989.0,2-10 employees
+596.0,Blippar,f,3.0,t,2011.0,201 to 500 employees
+597.0,Friend MTS,f,3.0,t,2006.0,51 to 200 employees
+602.0,SwiftStack,f,4.1,t,2011.0,51 to 200 employees
+607.0,Smart Search,f,4.2,t,2011.0,201 to 500 employees
+613.0,Aviary,f,4.6,t,1975.0,51 to 200 employees
+618.0,Talent Inc,f,2.9,t,2013.0,2-10 employees
+621.0,Knape and Vogt Co,f,5.0,t,1898.0,"1,001-5,000 employees"
+622.0,Optimal Business Action,f,3.2,t,2005.0,1 to 50 employees
+624.0,Picture This in Charleston,f,3.8,t,2010.0,2-10 employees
+627.0,Zaius,f,3.5,t,2014.0,1 to 50 employees
+634.0,Praxis Life Sciences,f,3.8,t,1996.0,1 to 50 employees
+636.0,R.H. ÁGIL,f,4.4,t,2010.0,1 to 50 employees
+640.0,Ensight,f,4.0,t,2013.0,1 to 50 employees
+646.0,StayClassy,f,3.0,t,2019.0,11-50 employees
+658.0,Atlas Lift Tech,f,3.8,t,2009.0,51 to 200 employees
+661.0,Aptitude Staffing Solutions,t,1.5,t,2001.0,51 to 200 employees
+662.0,Money,f,3.7,t,2018.0,501 to 1000 Employees
+673.0,Newmedica,f,4.2,t,2007.0,"501 to 1,000 employees"
+676.0,Startup Institute,f,3.8,t,2009.0,1 to 50 employees
+677.0,Tel Tech Networks,f,4.2,t,2001.0,51 to 200 employees
+678.0,American Express,f,4.1,t,1850.0,"More than 10,000 employees"
+685.0,Priority Care Group,f,2.4,t,1987.0,201 to 500 employees
+688.0,Status Solutions,f,3.1,t,2001.0,51 to 200 employees
+691.0,Aker Solutions,t,4.1,t,2008.0,"More than 10,000 employees"
+694.0,Bright Edge,t,5.0,t,2007.0,"501-1,000 employees"
+695.0,Flite,f,3.9,t,2006.0,51 to 200 employees
+700.0,Shyp,f,3.5,t,2013.0,1 to 50 employees
+703.0,Assurelife,f,4.0,t,2013.0,1 to 50 employees
+714.0,E-Hospitality,f,3.7,t,2010.0,201-500 employees
+715.0,GPC Works,f,3.3,t,1928.0,"More than 10,000 employees"
+716.0,Jaco Oil,t,3.2,t,1967.0,201 to 500 employees
+718.0,ding*,f,3.6,t,2006.0,201 to 500 employees
+720.0,Recombine,f,3.1,t,2008.0,1 to 50 employees
+721.0,TEDPB,f,3.5,t,1989.0,201-500 employees
+722.0,Collegiate Academies,f,3.9,t,2008.0,201-500 employees
+723.0,Hayes-Corp,f,1.0,t,2012.0,51 to 200 employees
+726.0,Digital Telepathy,f,4.9,t,2001.0,1 to 50 employees
+727.0,"McKibbon Hotel Management, Inc",f,3.8,t,1929.0,"1,001 to 5,000 employees"
+730.0,ustwo,f,4.2,t,2004.0,201 to 500 Employees
+732.0,Symicor Group,f,4.0,t,2010.0,2-10 employees
+733.0,EgyptNetwork,f,3.8,t,1997.0,51-200 employees
+734.0,Uni Baggage,f,4.5,t,2018.0,51 to 200 employees
+739.0,Ruby Red,f,2.0,t,2009.0,2-10 employees
+742.0,Cedexis,f,4.0,t,2009.0,51-200 employees
+744.0,Factory Media,f,4.3,t,2006.0,51 to 200 employees
+752.0,AccentCare,f,3.3,t,1999.0,"More than 10,000 employees"
+770.0,AGOGO,f,2.0,f,2013.0,2-10 employees
+771.0,Car,f,3.3,t,2003.0,11-50 employees
+772.0,DARPA,f,4.3,t,1958.0,201-500 employees
+774.0,Welcome,f,4.4,t,2008.0,51 to 200 employees
+776.0,Amplifier Strategies,f,2.7,t,2007.0,1 to 50 employees
+778.0,HappyFox,f,3.5,t,2011.0,51 to 200 Employees
+782.0,10,f,2.9,t,1998.0,"501 to 1,000 employees"
+795.0,Professional Success,f,5.0,t,2001.0,1 to 50 employees
+798.0,Urban Robotics Inc,f,5.0,t,2003.0,51-200 employees
+799.0,Mossio,f,5.0,t,2014.0,1 to 50 employees
+810.0,Digital Brand Architects,f,3.2,t,2010.0,1 to 50 employees
+815.0,Boston Consulting Group,f,4.2,t,1963.0,"More than 10,000 employees"
+821.0,Brainbow,f,4.0,t,2012.0,1 to 50 employees
+829.0,Christopherson Business Travel,f,3.3,t,1953.0,201 to 500 employees
+839.0,Dabo Health,f,3.5,f,2011.0,1 to 50 employees
+841.0,The Edge,f,4.1,t,1994.0,11-50 employees
+845.0,Saul&Partners,f,4.2,t,2006.0,2-10 employees
+846.0,SampraSoft,f,4.3,t,2005.0,1 to 50 employees
+849.0,Forward Internet Group,f,3.0,t,2004.0,201-500 employees
+853.0,Ryanair,f,3.3,t,1984.0,"More than 10,000 employees"
+857.0,AREA 17,f,4.4,t,2003.0,51 to 200 employees
+866.0,Katapult Group,f,3.1,t,2014.0,51 to 200 employees
+867.0,"Critical Nurse Staffing, Inc",f,3.1,t,2002.0,"1,001 to 5,000 employees"
+869.0,Capoo,f,3.6,t,2008.0,201 to 500 employees
+870.0,Auckland Transport,f,3.6,t,2010.0,"1,001-5,000 employees"
+871.0,Advocate Construction,f,4.2,t,2012.0,201 to 500 employees
+875.0,AvaStars,f,4.0,t,2017.0,51 to 200 employees
+878.0,Essence London,f,3.9,t,2005.0,"1,001 to 5,000 employees"
+879.0,Frequency540,f,5.0,f,2011.0,51-200 employees
+898.0,Accepted Ltd,f,3.9,t,2004.0,51 to 200 employees
+900.0,Explovia,f,3.9,t,1995.0,"501 to 1,000 employees"
+903.0,1212 Flooring Solutions Inc,f,3.0,f,2008.0,11-50 employees
+914.0,Selectus Group,f,2.6,t,2008.0,51 to 200 employees
+921.0,Process Unlimited,t,3.1,f,1987.0,201 to 500 employees
+923.0,Via,f,3.8,t,2012.0,"501 to 1,000 employees"
+930.0,GridSix,f,2.9,t,2000.0,51 to 200 employees
+931.0,Workable,f,2.6,t,2012.0,201 to 500 employees
+934.0,The RealReal,f,2.8,t,2012.0,"1,001 to 5,000 employees"
+935.0,NY Marketing Firm,f,2.9,f,2000.0,1 to 50 employees
+936.0,Stones,f,3.6,t,2008.0,1 to 50 employees
+937.0,HireHopes,f,4.3,t,2005.0,51 to 200 employees
+939.0,Accion,t,3.7,t,1961.0,51 to 200 employees
+940.0,AvenueStory,f,4.3,t,2002.0,11-50 employees
+942.0,Prometheus Group,f,3.5,t,1998.0,"1,001 to 5,000 employees"
+945.0,BlueLine Grid,f,3.6,t,2013.0,1 to 50 employees
+949.0,Voyageur,f,2.9,t,1968.0,201 to 500 employees
+951.0,HitFigure,f,2.9,t,2012.0,11-50 employees
+952.0,Tradable,f,3.9,t,2012.0,1 to 50 employees
+953.0,EventMobi,f,3.8,t,2010.0,51 to 200 employees
+954.0,MRSI,f,3.1,t,1984.0,"1,001-5,000 employees"
+955.0,Le Meridien,t,3.7,t,2005.0,51 to 200 employees
+965.0,Human Resources,f,2.6,f,2014.0,51 to 200 employees
+967.0,MediaMonks,f,3.7,t,2005.0,"501-1,000 employees"
+973.0,import?io,f,3.6,t,2012.0,1 to 50 employees
+982.0,Growth Intelligence,f,4.2,t,2011.0,1 to 50 employees
+983.0,Conversocial,f,4.0,t,2009.0,51 to 200 employees
+992.0,re|direct,f,3.1,t,1999.0,1 to 50 employees
+1001.0,Berry Clever,f,4.0,t,2013.0,1 to 50 employees
+1004.0,PPH,f,3.0,t,2001.0,51-200 employees
+1007.0,Insight Riot!,f,3.5,t,2011.0,2-10 employees
+1010.0,Fast Company Magazine,f,3.6,t,1995.0,51-200 employees
+1011.0,Meet cove,f,3.2,t,2009.0,51 to 200 employees
+1012.0,Hellas Direct,f,4.7,t,2012.0,201 to 500 employees
+1013.0,Engagor,f,3.5,f,2011.0,11 employees
+1027.0,Viva Payments,f,3.8,t,2010.0,"1,001-5,000 employees"
+1031.0,? HyperHosting,f,4.5,t,2001.0,2-10 employees
+1032.0,Propoint,f,3.9,t,2008.0,"501-1,000 employees"
+1036.0,Infolob Solutions,f,4.3,t,2009.0,201-500 employees
+1037.0,ProSulting,f,4.0,t,2003.0,2-10 employees
+1038.0,RSP,f,3.4,t,1956.0,"1,001-5,000 employees"
+1041.0,Orange County Tech Recruiters,f,3.2,t,2008.0,1 to 50 employees
+1044.0,code,f,3.5,t,2013.0,51 to 200 employees
+1045.0,Planning Center Online,f,4.7,t,2006.0,51-200 employees
+1046.0,Across USA Moving & Storage,f,4.0,t,2013.0,51-200 employees
+1047.0,Layar,f,3.3,t,2009.0,11 to 50 employees
+1051.0,RapidMiner,f,4.6,t,2007.0,51 to 200 employees
+1060.0,Get,f,3.3,t,1987.0,"501-1,000 employees"
+1073.0,interface rehab interface rehab,f,3.5,t,1995.0,"1,001 to 5,000 employees"
+1074.0,Social Active,f,3.0,f,2012.0,2-10 employees
+1075.0,We,f,4.5,t,1981.0,51 to 200 employees
+1081.0,CADA MARCA,f,3.6,t,1949.0,51 to 200 employees
+1085.0,Envision Consulting,f,4.6,t,2018.0,1 to 50 employees
+1087.0,Mashape,f,3.2,t,2005.0,51 to 200 employees
+1095.0,Port80 Software,f,4.0,t,2002.0,11-50 employees
+1100.0,LLC Infobest Systems,f,4.7,t,2000.0,51 to 200 employees
+1101.0,Mailjet,f,4.1,t,2010.0,51 to 200 employees
+1104.0,Stokes Automotive Group-Beaufort,f,3.3,t,1986.0,201 to 500 employees
+1111.0,Amazon Web Services,f,5.0,t,2006.0,"More than 10,000 employees"
+1112.0,AUTOHELLAS S.A,f,3.0,t,1974.0,201 to 500 employees
+1116.0,Fabrily,f,5.0,f,2013.0,11-50 employees
+1118.0,Blueprint Health,f,4.7,t,2011.0,1 to 50 employees
+1119.0,HELL Pizza,f,3.9,t,1996.0,"1,001 to 5,000 employees"
+1120.0,Daily Secret,f,5.0,f,2010.0,11-50 employees
+1134.0,Empower America,f,3.3,t,1891.0,"More than 10,000 employees"
+1135.0,Autotorq,f,3.6,f,2007.0,1 to 50 employees
+1136.0,Holiday Inn Express,f,3.4,t,2003.0,1 to 50 employees
+1156.0,Makielab,f,4.3,t,2017.0,1 to 50 employees
+1159.0,Ependys GmbH,f,3.5,t,2015.0,1 to 50 employees
+1161.0,ruitment to Recruitment,f,4.9,t,2000.0,1 to 50 Employees
+1166.0,CaseNEX,f,4.7,t,2000.0,11-50 employees
+1167.0,Greylock IL,f,4.7,t,1965.0,51-200 employees
+1172.0,TRAK Companies,f,3.5,t,1982.0,1 to 50 employees
+1173.0,Lafayette Habilitation Center,f,3.0,t,1982.0,11 to 50 employees
+1174.0,H1 Studio,f,3.5,t,2017.0,"501 to 1,000 employees"
+1179.0,Virteva,f,4.0,t,2005.0,51 to 200 employees
+1182.0,Newspaper Club,f,4.9,t,2010.0,11-50 employees
+1183.0,BBC Worldwide,f,3.9,t,1922.0,"More than 10,000 employees"
+1196.0,OPUSYS Technologies Pvt. Ltd,f,3.9,t,1997.0,201 to 500 Employees
+1203.0,Citymart,f,5.0,f,2011.0,11-50 employees
+1204.0,Ogilvy & Mather,f,3.7,t,1948.0,"1,001 to 5,000 employees"
+1215.0,Take Out Brands,f,3.8,f,2002.0,201-500 employees
+1217.0,Swift Capital,f,2.0,t,2006.0,2-10 employees
+1219.0,Wedo,f,3.6,t,1990.0,"501 to 1,000 employees"
+1224.0,"NAC Marketing Company, LLC",f,3.5,t,2010.0,1 to 50 Employees
+1235.0,Major League Baseball,f,3.9,t,1869.0,201 to 500 employees
+1236.0,352 Inc,f,4.3,t,1997.0,51 to 200 employees
+1245.0,Skyplan Group,f,3.4,t,2009.0,1 to 50 employees
+1250.0,Roka Security,f,4.7,t,2010.0,11-50 employees
+1255.0,CommonBond,f,3.8,t,2011.0,51 to 200 employees
+1259.0,MILLER & ASSOCIATES,f,5.0,t,1983.0,11-50 employees
+1263.0,"Shippers Supply, Inc",f,4.0,t,1928.0,51-200 employees
+1264.0,ClarusApex,f,4.0,t,2011.0,11-50 employees
+1273.0,ERG,f,3.4,t,1998.0,51 to 200 employees
+1279.0,Gust,f,4.2,t,2004.0,1 to 50 employees
+1290.0,Harrigan Solutions,f,4.3,t,2007.0,1 to 50 employees
+1293.0,Inception Recruitment,f,4.0,t,2022.0,1 to 50 employees
+1297.0,Replise,f,3.6,t,2007.0,"1,001 to 5,000 employees"
+1298.0,max20,f,3.8,t,2001.0,1 to 50 employees
+1308.0,Macpherson Oil and Refined Resources,t,2.4,t,1971.0,201 to 500 employees
+1311.0,Skyconsult,f,4.5,t,2012.0,51 to 200 employees
+1312.0,Alexander Wang,f,3.2,t,2005.0,51 to 200 employees
+1314.0,"NoteVault, Inc",f,3.2,t,2007.0,"5,001-10,000 employees"
+1328.0,Marketing Evolution,f,3.1,t,2000.0,51 to 200 employees
+1329.0,Embarke,f,4.0,t,2006.0,2-10 employees
+1336.0,Zomato,f,3.8,t,2008.0,"1,001 to 5,000 employees"
+1339.0,VisaHQ,f,3.5,t,2003.0,51 to 200 employees
+1341.0,carwow,f,3.4,t,2010.0,201 to 500 employees
+1342.0,INK,f,3.7,t,1994.0,201 to 500 employees
+1343.0,Beintoo,f,4.5,t,2011.0,1 to 50 employees
+1345.0,Baesman,f,3.7,t,1952.0,51 to 200 employees
+1353.0,Whisbi,f,4.2,t,2008.0,51 to 200 employees
+1359.0,Sharewave,f,4.0,t,2012.0,1 to 50 employees
+1361.0,Sprig,f,4.3,t,2019.0,51 to 200 employees
+1377.0,Coffeewards,f,4.0,t,2014.0,11-50 employees
+1378.0,Floored,f,4.0,t,2012.0,1 to 50 employees
+1379.0,Holic,f,3.0,t,2013.0,1 to 50 employees
+1385.0,Ameriplan,f,3.6,t,1992.0,201 to 500 employees
+1389.0,Food Safety,f,4.0,t,2014.0,2-10 employees
+1390.0,Consumer Bucks,f,3.6,t,2015.0,51 to 200 employees
+1398.0,hedgehog lab,f,4.0,t,2007.0,51 to 200 Employees
+1403.0,BIGGER MARKETS,f,3.5,t,2004.0,51-200 employees
+1406.0,Pacific54,f,3.2,t,2009.0,1 to 50 employees
+1408.0,Lakshya Digital,f,4.3,t,2004.0,201 to 500 employees
+1417.0,Interactive Strategies,f,4.1,t,2001.0,51 to 200 employees
+1428.0,Peel,f,4.1,t,1971.0,201 to 500 Employees
+1439.0,Magpie,f,3.7,t,2007.0,1 to 50 Employees
+1441.0,IP Solutions,f,3.0,t,1999.0,1 to 50 employees
+1444.0,ADS Security,f,3.8,t,2009.0,51-200 employees
+1448.0,Digital Jobs,f,3.8,t,2009.0,2-10 employees
+1449.0,Pardon Services Canada,f,2.9,t,1989.0,1 to 50 Employees
+1453.0,Forward3D,f,3.5,t,2004.0,201-500 employees
+1456.0,rabt,f,3.2,t,2020.0,2-10 employees
+1457.0,????? B2B,f,3.9,t,1998.0,51 to 200 Employees
+1462.0,Parking Defenders,f,3.9,t,2006.0,11-50 employees
+1475.0,Existanze Integrated Solutions,f,3.3,t,2005.0,1 to 50 employees
+1483.0,Transifex,f,4.9,t,2009.0,51 to 200 employees
+1484.0,Xplenty,f,4.8,t,2012.0,1 to 50 employees
+1486.0,Allied Van Lines,f,3.5,t,1928.0,"5,001 to 10,000 employees"
+1488.0,Mercer Foods,f,3.0,t,1980.0,201 to 500 employees
+1496.0,WorkHub,f,4.8,t,2022.0,1 to 50 employees
+1498.0,Shape the Future,f,3.7,t,2008.0,"501 to 1,000 employees"
+1499.0,Humans First®,f,4.0,t,2010.0,2-10 employees
+1500.0,TekTalent,f,2.9,t,2020.0,2-10 employees
+1503.0,Jhana,f,4.7,t,2011.0,1 to 50 employees
+1508.0,Infogram,f,4.0,t,2012.0,51 to 200 employees
+1510.0,Manessis Travel,f,5.0,t,1988.0,51 to 200 employees
+1512.0,Discoveroom,f,3.9,t,1985.0,"More than 10,000 employees"
+1515.0,Innovative Data Science Solutions Insights,f,3.5,t,2008.0,51 to 200 Employees
+1519.0,Massive Media,f,4.4,t,2005.0,51 to 200 employees
+1529.0,InVision,f,3.8,t,2011.0,"501 to 1,000 employees"
+1533.0,Pricing Recruiters,f,1.0,t,2012.0,1 to 50 employees
+1536.0,Declara,f,2.8,t,2012.0,51 to 200 employees
+1537.0,Stylistpick Stylistpick,f,3.8,t,2010.0,11-50 employees
+1538.0,Convalescent Aid Society,f,4.7,t,1923.0,2-10 employees
+1540.0,Good Life Home Care,f,4.0,t,2005.0,51-200 employees
+1543.0,Sbokos Hotel Group,f,3.9,t,1976.0,"1,001 to 5,000 employees"
+1545.0,Nobilissimus Apps,f,4.6,t,2016.0,51 to 200 employees
+1548.0,iMATCHATIVE,f,3.6,t,2012.0,1 to 50 employees
+1554.0,Global Shapers Athens Hub,f,4.1,t,2011.0,"1,001-5,000 employees"
+1562.0,Seedcamp,f,4.0,t,2007.0,1 to 50 employees
+1566.0,Envision Remodeling Co,f,3.5,t,2006.0,1 to 50 employees
+1568.0,"Allies In Caring, Inc",f,4.7,t,2013.0,1 to 50 employees
+1570.0,Wallflowr,f,4.0,t,2013.0,1 to 50 employees
+1571.0,A Squared Advisers,f,3.8,t,2008.0,51 to 200 employees
+1575.0,Yoyo,f,4.3,t,2013.0,51 to 200 employees
+1579.0,Joist,f,4.0,t,2012.0,1 to 50 employees
+1582.0,Greene Health Care Inc,f,2.9,t,1971.0,51 to 200 employees
+1583.0,Mann,f,3.7,t,1941.0,"More than 10,000 employees"
+1584.0,Soft ware Com petitiveness International,f,4.5,t,2010.0,51-200 employees
+1588.0,The Practice Group,f,4.0,t,1986.0,11-50 employees
+1593.0,Wellnext,f,3.6,t,2022.0,11-50 employees
+1603.0,"Soal Technologies, LLC",f,4.0,t,2008.0,201-500 employees
+1606.0,ParishSOFT LLC,f,3.3,t,1998.0,51 to 200 employees
+1611.0,Ideal CRM,f,3.5,t,2019.0,201 to 500 employees
+1617.0,Aya Healthcare,f,3.8,t,2001.0,"5,001 to 10,000 employees"
+1623.0,Compliance Systems Management,f,3.7,t,1992.0,51 to 200 employees
+1628.0,ISE,f,5.0,t,2001.0,"1,001 to 5,000 employees"
+1644.0,Axonix,f,3.6,t,2014.0,1 to 50 employees
+1648.0,Intersect Fund,f,5.0,t,2008.0,1 to 50 employees
+1661.0,?,f,4.1,t,1981.0,51 to 200 employees
+1664.0,Bonsey Jaden,f,3.5,t,2013.0,51 to 200 employees
+1673.0,StepBeyond Solutions Inc,f,3.0,t,1997.0,2-10 employees
+1674.0,Peak Games,f,2.5,t,2010.0,51 to 200 employees
+1675.0,Pandoo TEK,f,3.5,t,2013.0,11-50 employees
+1677.0,Retail Knights Installations,f,3.2,t,1759.0,501 to 1000 Employees
+1684.0,Symmetry Asset Management Inc,f,3.0,t,2017.0,51 to 200 employees
+1685.0,Fundzio,f,4.0,t,2013.0,11-50 employees
+1686.0,Itsa Southern Thing Apparel,f,3.5,t,2017.0,1 to 50 employees
+1697.0,Modern Automotive Performance,f,3.5,t,2006.0,51 to 200 employees
+1703.0,Intrinsix,f,4.5,t,1986.0,51 to 200 employees
+1715.0,Beck Company Hotels,f,4.2,t,1912.0,"501 to 1,000 employees"
+1720.0,SLI Systems,f,3.4,t,2001.0,51 to 200 employees
+1731.0,PowerbyProxi,f,3.5,t,2007.0,11 to 50 employees
+1735.0,Mindworks interactive,f,3.3,t,2007.0,1 to 50 employees
+1745.0,Integrated Marketing and Sales Services Agency,f,2.6,t,1989.0,51 to 200 Employees
+1750.0,Scicada,f,3.5,t,2010.0,1 to 50 employees
+1752.0,Ideas2Life,f,2.3,t,2020.0,1 to 50 employees
+1754.0,Villosophy,f,4.0,t,2014.0,1 to 50 employees
+1769.0,Cookisto,f,4.1,f,2013.0,2-10 employees
+1778.0,Primesoft Inc,f,3.6,t,2006.0,201 to 500 Employees
+1779.0,Aclima,f,3.8,t,2008.0,51 to 200 employees
+1782.0,controlling en Business Intelligence,f,2.5,f,2014.0,201 to 500 employees
+1783.0,IgnitionOne,f,3.1,t,2004.0,201 to 500 Employees
+1796.0,Adcash®,f,3.8,t,2007.0,51 to 200 employees
+1800.0,"Freytag & Associates, Inc",f,3.0,t,1929.0,1 to 50 employees
+1802.0,ECHOING GREEN,f,3.0,t,1987.0,1 to 50 employees
+1817.0,NOW: Pensions,f,3.5,t,2012.0,51 to 200 Employees
+1819.0,Senior Aerospace Weston,f,3.0,t,1948.0,201-500 employees
+1821.0,Playco Ltd,f,3.2,t,2020.0,51 to 200 employees
+1823.0,Parman Energy Corporation,f,2.8,t,2009.0,51 to 200 employees
+1824.0,GlobalWebIndex,f,3.9,t,2009.0,"501 to 1,000 employees"
+1826.0,Sparkol,f,3.9,t,2008.0,11-50 employees
+1846.0,HealthCare California,f,2.0,t,2004.0,51-200 employees
+1859.0,Dropoff,f,4.2,t,2014.0,51 to 200 employees
+1865.0,Great Clips,f,3.4,t,1982.0,201 to 500 Employees
+1866.0,"SCOREBIG, INC",f,3.5,t,2009.0,1 to 50 employees
+1883.0,TalkLocal,f,3.9,t,2010.0,1 to 50 employees
+1887.0,Fundnation,f,4.3,t,2011.0,51 to 200 employees
+1889.0,Offerial,f,4.0,t,2012.0,1 to 50 employees
+1890.0,Appurify,f,3.0,t,2012.0,1 to 50 employees
+1891.0,Castle Search Group,f,3.9,t,1995.0,"1,001-5,000 employees"
+1896.0,SOLID,f,3.8,t,1998.0,51 to 200 employees
+1897.0,HAVAS WW,f,3.6,t,1978.0,"More than 10,000 employees"
+1912.0,Q2Hire,f,3.1,t,2000.0,51 to 200 employees
+1921.0,Sytrics,f,4.0,t,2012.0,51-200 employees
+1929.0,All American classics,f,4.0,t,1994.0,51-200 employees
+1930.0,Praeter Consulting,f,3.6,t,2018.0,2-10 employees
+1934.0,PLANNING S.A,f,3.0,t,1989.0,11-50 employees
+1938.0,Boomerang Commerce,f,3.8,t,2012.0,51-200 employees
+1940.0,Top Echelon Network,f,4.1,t,1988.0,11-50 employees
+1946.0,IMAGINET,f,4.4,t,1997.0,51-200 employees
+1952.0,Senior Nannies Home Care Services,f,2.8,t,2004.0,11-50 employees
+1959.0,Luxy Hair,f,4.6,t,2010.0,1 to 50 employees
+1962.0,Quiénes Somos Somos,f,4.7,t,2008.0,51 to 200 employees
+1977.0,Aspex Recruitment,f,3.4,t,1995.0,1 to 50 employees
+2006.0,Cigniti Inc,f,3.8,t,1998.0,1001 to 5000 Employees
+2021.0,August Smart Lock,f,4.1,t,2013.0,51 to 200 employees
+2023.0,Roland & Associates,f,3.0,t,1982.0,1 to 50 employees
+2024.0,HireEasy Pro,f,4.5,t,2017.0,1 to 50 employees
+2026.0,Locish,f,3.7,t,2013.0,1 to 50 employees
+2041.0,Armed Forces,f,4.7,t,1997.0,2-10 employees
+2042.0,Tribe Wearables,f,3.7,t,2013.0,1 to 50 employees
+2043.0,tapely,f,3.5,t,2011.0,1 to 50 employees
+2049.0,The Pixel Academy,f,3.8,t,2012.0,11-50 employees
+2051.0,"National Capitol Contracting, LLC",f,3.7,t,2002.0,51-200 employees
+2068.0,Telecentrix Inc,f,3.1,t,2006.0,51-200 employees
+2070.0,The Missing Link,f,4.1,t,1997.0,51 to 200 Employees
+2078.0,Queens University of Charlotte,f,3.7,t,1857.0,201 to 500 employees
+2088.0,Axxess Industries,f,3.3,t,2000.0,1 to 50 employees
+2091.0,Talent Acquisition Partners,f,4.3,t,2017.0,1 to 50 employees
+2095.0,Social Academy,f,4.0,t,2017.0,11-50 employees
+2099.0,MAC Property Management,f,3.2,t,2002.0,201 to 500 employees
+2100.0,SDI Marketing,f,3.5,t,1988.0,201 to 500 employees
+2104.0,humble,f,2.6,t,2010.0,51 to 200 employees
+2113.0,The Up Group,f,4.0,t,2007.0,1 to 50 employees
+2115.0,Palo Ltd,f,3.6,t,2009.0,201 to 500 Employees
+2119.0,Social Care Alba,f,3.8,t,2010.0,51-200 employees
+2138.0,Bespoke Global,f,5.0,t,2013.0,2-10 employees
+2144.0,Animal Rescue & Education Solution,f,5.0,t,2018.0,1 to 50 employees
+2158.0,Hydro-Thermal,f,2.4,t,1934.0,51 to 200 employees
+2161.0,DealDash Oyj,f,4.5,t,2009.0,51-200 employees
+2163.0,Bradley Contracting Group Corporation,t,3.1,t,1921.0,"501 to 1,000 employees"
+2166.0,Storage Valet Service,f,4.0,t,2016.0,2-10 employees
+2173.0,SHS,f,3.6,t,1993.0,11-50 employees
+2192.0,Condition One,f,5.0,t,2010.0,1 to 50 employees
+2198.0,Zylun,f,4.4,t,2010.0,201 to 500 Employees
+2200.0,Command,f,4.0,t,2019.0,11-50 employees
+2205.0,Unique Group,f,3.1,t,1970.0,201 to 500 Employees
+2207.0,Ameritech Media,f,3.4,t,2003.0,1 to 50 employees
+2211.0,BIME,f,4.2,t,2009.0,1 to 50 employees
+2215.0,Yoobi,f,4.5,t,2014.0,1 to 50 employees
+2225.0,VERTO Verto Partners,f,4.0,t,2018.0,1 to 50 employees
+2226.0,Jiffy Worldwide,f,4.0,t,2008.0,51 to 200 employees
+2241.0,Volunteers of America,f,3.2,t,1896.0,"More than 10,000 employees"
+2244.0,FundApps,f,4.7,t,2010.0,51 to 200 employees
+2247.0,Precision Technologies,f,4.3,t,2008.0,201 to 500 Employees
+2260.0,Minimedia,f,5.0,t,2006.0,1 to 50 employees
+2273.0,"Talented IT, Inc",f,4.3,t,2004.0,51 to 200 employees
+2278.0,Wiivv,f,3.1,t,2014.0,1 to 50 employees
+2287.0,BADR,f,4.2,t,1982.0,"501 to 1,000 employees"
+2289.0,Olabord,f,4.0,t,2022.0,11-50 employees
+2290.0,"Street Solutions, Inc",f,3.2,t,2001.0,1 to 50 employees
+2302.0,Microsoft Center of Excellence,f,4.5,t,1983.0,1 to 50 employees
+2324.0,Stancato's of Parma,f,3.5,t,1938.0,1 to 50 employees
+2330.0,Comfort Keepers,f,3.5,t,2005.0,51 to 200 employees
+2334.0,Eastnet Claims,f,3.6,t,2007.0,1 to 50 employees
+2341.0,FutureLearn,f,3.4,t,2012.0,51 to 200 Employees
+2345.0,Aguilar Group,f,5.0,t,1977.0,51 to 200 employees
+2351.0,idea,f,4.1,t,1989.0,201 to 500 Employees
+2357.0,Australia Post,f,3.5,t,1809.0,"More than 10,000 employees"
+2361.0,The AdPilot,f,4.0,t,2014.0,51 to 200 employees
+2364.0,Jtec,f,5.0,t,2014.0,2-10 employees
+2366.0,Smarter Good,f,3.6,t,2012.0,51 to 200 employees
+2368.0,Vend,f,4.1,t,2010.0,201 to 500 Employees
+2376.0,OPUS Integrated Communication,f,5.0,t,2010.0,1 to 50 employees
+2377.0,Total Eclipse,f,5.0,t,1994.0,1 to 50 employees
+2385.0,Cartwright Property Management,t,3.8,t,2003.0,51 to 200 employees
+2390.0,Crossroads Treatment Centers,f,2.3,t,2005.0,1 to 50 employees
+2393.0,ative,f,3.5,t,2017.0,1 to 50 employees
+2411.0,SRS,f,4.0,t,2008.0,"More than 10,000 employees"
+2413.0,Radiojar,f,4.0,t,2011.0,1 to 50 employees
+2417.0,Sawyer Studios,f,3.8,t,1980.0,1 to 50 employees
+2421.0,Electus,f,4.1,t,2009.0,1 to 50 employees
+2430.0,Osper,f,2.5,t,2012.0,1 to 50 employees
+2450.0,Lifehack,f,2.9,t,2005.0,201 to 500 employees
+2452.0,OgilvyOne worldwide,f,3.7,t,1948.0,1001 to 5000 Employees
+2459.0,MMR Inc,f,4.1,t,1985.0,"5,001-10,000 employees"
+2467.0,The Pimsleur Approach,f,4.0,t,1963.0,1 to 50 employees
+2472.0,Goodmates,f,4.0,t,2014.0,11-50 employees
+2483.0,Distributor for Medical Products,f,4.4,t,1993.0,2-10 employees
+2498.0,X1 Group,f,4.6,t,2010.0,51 to 200 employees
+2507.0,E-MAILiT,f,3.7,t,2014.0,201 to 500 Employees
+2512.0,Joy Aether,f,2.9,t,2008.0,1 to 50 employees
+2514.0,Cision,f,3.0,t,1892.0,"1,001 to 5,000 employees"
+2517.0,PCP,f,5.0,t,1921.0,51 to 200 employees
+2521.0,?s Cube,f,3.7,t,2011.0,201 to 500 employees
+2530.0,PowerChord Dealer Network System,f,3.8,t,2001.0,51 to 200 employees
+2532.0,MathWhisperer Consultation and Tutoring Services,f,5.0,t,1998.0,1 to 50 employees
+2547.0,MAP Digital,f,4.2,t,2001.0,1 to 50 employees
+2565.0,Fusemachines,f,3.3,t,2013.0,51 to 200 employees
+2572.0,EcoTech Marine,f,2.6,t,2007.0,1 to 50 employees
+2573.0,WillDom,f,4.8,t,2009.0,1 to 50 employees
+2575.0,Carlyle Financial,f,5.0,t,1987.0,1 to 50 employees
+2588.0,McLane Intel,f,3.3,t,1999.0,51 to 200 employees
+2594.0,VARITE,f,3.6,t,2000.0,201 to 500 Employees
+2599.0,Excel Construction,f,2.5,t,1996.0,51 to 200 employees
+2605.0,Resource Guru,f,5.0,t,2011.0,1 to 50 employees
+2631.0,Sentios Technology,f,5.0,t,2015.0,1 to 50 employees
+2640.0,Top Source Talent,f,5.0,t,2013.0,1 to 50 employees
+2650.0,Palladium Consulting,f,3.9,t,1965.0,"1,001 to 5,000 employees"
+2662.0,HealthLink,f,3.6,t,1993.0,51 to 200 employees
+2666.0,Pinterest,f,4.0,t,2010.0,"1,001 to 5,000 employees"
+2683.0,ReadyCache,f,2.6,t,1993.0,1 to 50 employees
+2699.0,roundpeg,f,4.0,t,2021.0,1 to 50 employees
+2706.0,CliniCare Pro,f,3.7,t,1967.0,201 to 500 employees
+2718.0,Pingdom,f,4.4,t,2007.0,1 to 50 employees
+2722.0,VSO,f,3.9,t,1958.0,"501 to 1,000 employees"
+2732.0,Catapult Chicago,f,3.5,t,1976.0,"1,001 to 5,000 employees"
+2743.0,True Shabu,f,3.9,t,2012.0,"501 to 1,000 employees"
+2761.0,Populist Cleaning Co,f,3.9,t,1980.0,201-500 employees
+2762.0,International Cultural Exchange Services,f,3.9,t,1991.0,1 to 50 employees
+2786.0,POS-X,f,4.0,t,2005.0,1 to 50 employees
+2796.0,ehumanlife,f,5.0,t,2013.0,11-50 employees
+2805.0,WannaYum,f,3.5,f,1018.0,201 to 500 Employees
+2814.0,Pizza Fan,f,2.4,t,1996.0,"501 to 1,000 employees"
+2863.0,TNT Consulting PC,f,5.0,t,2012.0,1 to 50 employees
+2866.0,Fairway Technology,f,5.0,t,2002.0,11 to 50 employees
+2870.0,AZCO INC,t,4.0,t,1949.0,"501 to 1,000 employees"
+2871.0,Qualco,f,3.5,t,1998.0,201 to 500 Employees
+2874.0,amvinc,f,4.1,t,2001.0,"1,001 to 5,000 employees"
+2878.0,AJi,f,3.5,t,1996.0,"5,001 to 10,000 employees"
+2888.0,Nitor Infotech,f,4.4,t,2006.0,1001 to 5000 Employees
+2914.0,Likno Software,f,2.8,t,2007.0,1 to 50 employees
+2923.0,PTL SOLAR PTL Solar?,f,4.0,t,2008.0,51 to 200 Employees
+2934.0,"Expedited Recruiting, LLC",f,5.0,t,2019.0,1 to 50 employees
+2972.0,Mansfield Property Maintenance,f,4.0,t,2006.0,11-50 employees
+2975.0,VisionMobile,f,3.5,t,2007.0,1 to 50 employees
+2978.0,Vx Group,f,4.6,t,2011.0,1 to 50 employees
+2981.0,Espressoft Systems Sdn Bhd,f,5.0,t,2006.0,1 to 50 employees
+2998.0,Le Domaine,f,2.9,t,2003.0,11-50 employees
+3001.0,A-Z Wedding Services,f,3.0,t,1990.0,11 to 50 employees
+3025.0,American Secured Benefits,t,3.1,t,1959.0,11-50 employees
+3029.0,VouchedFor,f,4.4,t,2011.0,1 to 50 employees
+3039.0,ESET,f,3.0,t,1999.0,51 to 200 employees
+3045.0,"Independence, Inc",f,2.9,t,1997.0,"1,001 to 5,000 employees"
+3067.0,Inctor Consulting,t,,,,
+3070.0,O|Miga,f,2.9,t,1989.0,201 to 500 employees
+3073.0,RealScout,f,3.2,t,2004.0,201 to 500 employees
+3075.0,"G&H International Services, Inc",f,3.7,t,1981.0,51 to 200 employees
+3095.0,Groove,f,3.5,t,2004.0,51 to 200 employees
+3096.0,Bandsintown,f,3.2,t,2012.0,2-10 employees
+3120.0,VeriPic,f,3.9,t,2015.0,201 to 500 employees
+3123.0,Dr. Tavel Family Eye Care,f,2.8,t,2010.0,"1,001 to 5,000 employees"
+3130.0,Ravenshoe,f,3.2,t,1993.0,201 to 500 employees
+3144.0,Risei Consultancy,f,3.3,t,1980.0,501 to 1000 employees
+3156.0,EverTrue,f,3.5,t,1995.0,201 to 500 employees
+3157.0,"Akraya, Inc",f,4.3,t,1982.0,11-50 employees
+3164.0,Logika,f,3.0,t,2014.0,"1,001 to 5,000 employees"
+3175.0,Certus,f,3.7,t,2020.0,2-10 employees
+3179.0,Online,f,3.9,t,1985.0,51 to 200 employees
+3184.0,"Omega Systems Group, Inc",f,2.6,t,2004.0,11-50 employees
+3189.0,TCG Consulting,f,3.9,t,1992.0,2-10 employees
+3190.0,Northwestern Mutual,f,2.9,t,2013.0,51 to 200 employees
+3239.0,FeedMe,f,2.6,f,1987.0,11-50 employees
+3253.0,Google Analytics,f,4.7,t,2000.0,51 to 200 employees
+3254.0,Arrival Education,f,4.7,t,2013.0,51 to 200 employees
+3259.0,NLCollect,f,4.4,t,1983.0,2-10 employees
+3261.0,SMGI,f,3.2,t,2004.0,11-50 employees
+3269.0,Curvo Labs,f,2.7,t,1994.0,51 to 200 employees
+3270.0,Quick2LAUNCH,f,4.1,t,1983.0,51 to 200 employees
+3271.0,?,f,3.5,t,1991.0,201 to 500 employees
+3287.0,Cleanly Valet,f,2.8,t,2011.0,201 to 500 employees
+3296.0,Atnet Communications A.E,f,3.6,t,2011.0,501 to 1000 employees
+3368.0,Moxie,f,2.6,t,2007.0,201 to 500 employees
+3371.0,Trident Systems,f,4.6,t,1992.0,51 to 200 employees
+3381.0,Eagle,f,3.1,t,2010.0,201 to 500 employees
+3388.0,Spartan Race,f,4.0,t,1993.0,11-50 employees
+3389.0,Twitpic,f,3.2,t,1999.0,51 to 200 employees
+3398.0,BREADHUNTER e.U,f,3.7,t,1997.0,201 to 500 employees
+3400.0,Persado,f,3.8,t,2008.0,51 to 200 employees
+3401.0,Reevoo,f,2.9,t,1985.0,201 to 500 employees
+3412.0,ELECTRON,f,4.7,t,2011.0,501 to 1000 employees
+3432.0,Priocept,f,4.3,t,2008.0,501 to 1000 employees
+3435.0,Casafina,f,4.7,t,1981.0,"1,001 to 5,000 employees"
+3447.0,Apps for Good,f,4.6,t,2002.0,51 to 200 employees
+3461.0,Milk & Vice,f,3.9,t,1998.0,51 to 200 employees
+3462.0,Fueled,f,4.6,t,2010.0,51 to 200 employees
+3494.0,Pinkston Group,f,2.7,t,1984.0,51 to 200 employees
+3500.0,Datasource Consulting,f,3.0,t,1998.0,201 to 500 employees
+3512.0,Adbrain,f,2.6,t,2013.0,201 to 500 employees
+3518.0,J-Curve Technologies,f,3.2,t,1989.0,201 to 500 employees
+3523.0,Trebbble,f,3.4,t,2004.0,51 to 200 employees
+3526.0,Realeyes,f,3.1,t,1981.0,11-50 employees
+3535.0,Mediascape,f,4.4,t,1990.0,51 to 200 employees
+3538.0,The Blume Boston Organization,f,3.3,t,2010.0,11-50 employees
+3543.0,TeeSmile,f,3.1,t,1994.0,501 to 1000 employees
+3553.0,"CEUFast, Inc",f,3.7,t,1988.0,51 to 200 employees
+3561.0,Somnoware,f,2.8,t,2002.0,11-50 employees
+3562.0,Brand Apps,f,4.3,t,1998.0,2-10 employees
+3569.0,FreeTextbooks,f,2.7,t,1988.0,201 to 500 employees
+3585.0,Aarna IT Solutions Pvt Ltd,f,4.8,t,2014.0,201 to 500 employees
+3586.0,Global Clinical Research Organization,f,4.3,t,2000.0,51 to 200 employees
+3597.0,Morgann Price,f,3.0,t,1988.0,2-10 employees
+3602.0,M&S.com,f,2.5,t,2007.0,51 to 200 employees
+3603.0,Watchy Technology,f,4.4,t,1986.0,51 to 200 employees
+3615.0,Burns & McBride,f,4.1,t,1995.0,201 to 500 employees
+3616.0,Randstad Sourceright Sdn. Bhd,f,4.2,t,1995.0,201 to 500 employees
+3626.0,Out of the Box Intermedia,f,4.3,t,2012.0,51 to 200 employees
+3633.0,E Squared C,f,2.7,t,1983.0,11-50 employees
+3641.0,TechShop,f,3.3,t,1983.0,"1,001 to 5,000 employees"
+3644.0,Fnatic,f,2.8,t,2018.0,51 to 200 employees
+3676.0,ExaVault,f,4.5,f,2019.0,201 to 500 employees
+3677.0,Agensi Pekerjaan,f,3.9,t,1996.0,11-50 employees
+3680.0,Atcom,f,3.3,t,2016.0,51 to 200 employees
+3682.0,Edwards Personnel,f,2.6,t,2018.0,2-10 employees
+3683.0,The Eleven,f,3.2,t,2008.0,51 to 200 employees
+3684.0,Cognity,f,3.2,t,2015.0,"1,001 to 5,000 employees"
+3687.0,Central California SPCA,f,4.2,t,2017.0,51 to 200 employees
+3697.0,WiseBanyan,f,4.0,t,2018.0,2-10 employees
+3700.0,Invenio Solutions,f,4.5,t,2016.0,2-10 employees
+3703.0,YC Media,f,3.6,t,2014.0,51 to 200 employees
+3709.0,Emerge Education,f,2.8,t,1986.0,11-50 employees
+3721.0,Missouri Valley Federal Credit Union,f,4.1,t,2006.0,2-10 employees
+3730.0,Indigo Clothing,f,4.2,t,2007.0,201 to 500 employees
+3732.0,S terling Software,f,3.8,t,2001.0,51 to 200 employees
+3743.0,EXIS I.T,f,4.3,t,1993.0,11-50 employees
+3760.0,Arithmica,f,3.6,f,1986.0,"1,001 to 5,000 employees"
+3775.0,Haldane Systems Ltd,f,3.7,t,2016.0,11-50 employees
+3779.0,LADezign,f,3.5,t,2001.0,"1,001 to 5,000 employees"
+3790.0,Bitmaker Labs,f,2.6,t,1984.0,51 to 200 employees
+3792.0,Matte Publishing,f,2.7,t,1981.0,501 to 1000 employees
+3794.0,Equinix,f,2.6,f,2006.0,201 to 500 employees
+3803.0,i-kiosk,f,4.0,t,2000.0,501 to 1000 employees
+3834.0,Doctors in Dubai,f,3.2,t,2017.0,"1,001 to 5,000 employees"
+3846.0,Diagnostic Health,f,3.7,t,1994.0,11-50 employees
+3849.0,SKI USA,f,4.6,t,2000.0,"1,001 to 5,000 employees"
+3852.0,Net A Porter,f,3.1,t,1989.0,51 to 200 employees
+3855.0,TidePool,f,3.4,t,2002.0,51 to 200 employees
+3865.0,Dilbeck Real Estate Real Living,f,4.2,t,2018.0,51 to 200 employees
+3891.0,Marcus & Millichap,f,3.0,t,1984.0,51 to 200 employees
+3897.0,NoSleepForSheep,f,2.7,t,1980.0,11-50 employees
+3899.0,Linkwise,f,3.2,f,1992.0,51 to 200 employees
+3905.0,SunnyView Dental,f,2.9,t,2000.0,51 to 200 employees
+3917.0,mGage,f,4.6,t,2005.0,201 to 500 employees
+3922.0,Aquira,f,4.4,t,2000.0,501 to 1000 employees
+3936.0,twago,f,4.0,t,1997.0,51 to 200 employees
+3939.0,GLOBO,f,4.5,t,2016.0,51 to 200 employees
+3943.0,Cooper Notification,t,,,,
+3960.0,Reformation,f,4.3,f,2011.0,11-50 employees
+3972.0,Live It China Limited,f,2.9,t,2015.0,11-50 employees
+3976.0,Fasmatech,f,4.6,t,1996.0,2-10 employees
+3989.0,inAccess,f,3.7,t,2014.0,51 to 200 employees
+3991.0,Zenjoy,f,4.4,t,1990.0,11-50 employees
+3996.0,AlfaVAD,f,4.6,t,2000.0,"1,001 to 5,000 employees"
+3997.0,47Billion,f,3.2,t,2005.0,51 to 200 employees
+4008.0,Curate,f,2.8,t,1983.0,51 to 200 employees
+4010.0,Demo Duck,f,3.0,t,2013.0,51 to 200 employees
+4016.0,Drexel University,f,3.5,t,1997.0,11-50 employees
+4023.0,Cashie Commerce,f,4.4,t,2019.0,51 to 200 employees
+4026.0,Team Ookla,f,4.5,t,2014.0,201 to 500 employees
+4041.0,MarketSource,f,2.5,t,2020.0,51 to 200 employees
+4051.0,DaWanda,f,3.7,t,2008.0,51 to 200 employees
+4054.0,Ybrant Digital,f,3.5,t,2008.0,"1,001 to 5,000 employees"
+4057.0,PROJECT ZETA,f,3.0,t,2017.0,501 to 1000 employees
+4059.0,VENTURE Credit Union Cooperative Society Limited,f,2.8,t,2000.0,201 to 500 employees
+4071.0,Software & Support Media Group,f,3.3,t,1992.0,51 to 200 employees
+4081.0,ipcortex,f,4.7,f,2020.0,201 to 500 employees
+4099.0,Ginetta Web/Mobile,f,3.2,t,1996.0,11-50 employees
+4100.0,Pearson Foundation,f,3.7,t,1988.0,51 to 200 employees
+4115.0,American Hydrostatics,f,4.1,t,2020.0,2-10 employees
+4167.0,"United Labor Group, LLC",f,3.3,t,1980.0,51 to 200 employees
+4182.0,Monterail,f,4.7,t,1981.0,51 to 200 employees
+4195.0,Bare-Square,f,4.7,t,2008.0,11-50 employees
+4197.0,Articheck,f,3.1,t,2012.0,"1,001 to 5,000 employees"
+4208.0,EcomNets,f,3.6,t,1989.0,"1,001 to 5,000 employees"
+4218.0,H&R Block,f,3.2,t,2019.0,201 to 500 employees
+4228.0,Mainstreet Technologies Incorporated,f,3.2,t,2000.0,51 to 200 employees
+4230.0,NuORDER,f,2.6,t,2007.0,501 to 1000 employees
+4246.0,Glownet,f,3.9,t,1990.0,11-50 employees
+4254.0,EZA,f,3.7,t,2013.0,201 to 500 employees
+4267.0,CSR Association of Pakistan,f,2.6,t,1987.0,11-50 employees
+4269.0,Symmetry Financial Group,f,3.1,t,2001.0,201 to 500 employees
+4277.0,Thread,f,4.6,t,1987.0,11-50 employees
+4281.0,DynCorp International,t,,,,
+4284.0,Picfair,f,3.1,t,1994.0,501 to 1000 employees
+4288.0,Everyday Green,f,2.8,t,1996.0,"1,001 to 5,000 employees"
+4296.0,Adventure Cow,f,3.6,t,2002.0,11-50 employees
+4299.0,Inspire Fundraising Solutions,f,4.8,t,2003.0,51 to 200 employees
+4320.0,Andon,f,3.1,t,1998.0,"1,001 to 5,000 employees"
+4337.0,Wiredrive,f,4.0,t,1984.0,51 to 200 employees
+4352.0,The Financial Clinic,f,4.3,t,2011.0,501 to 1000 employees
+4357.0,Addon Technologies,f,3.0,t,1980.0,51 to 200 employees
+4361.0,Blender Design,f,4.2,f,2002.0,51 to 200 employees
+4376.0,Advanced Interactive Media Group LLC,f,3.3,t,2016.0,11-50 employees
+4392.0,Two Bulls,f,4.0,f,1987.0,11-50 employees
+4401.0,Commerce Guys,f,4.0,t,1992.0,201 to 500 employees
+4418.0,TapHunter,f,3.7,t,1987.0,51 to 200 employees
+4425.0,El Clasificado,f,2.7,t,2002.0,51 to 200 employees
+4427.0,MAM,f,4.4,t,1980.0,51 to 200 employees
+4434.0,Rottenstein Law Group,f,3.2,t,2003.0,51 to 200 employees
+4444.0,QB Medical Inc,f,2.9,t,2014.0,501 to 1000 employees
+4460.0,App,f,2.6,t,2003.0,"1,001 to 5,000 employees"
+4471.0,Snider Advisors,f,3.9,t,1996.0,51 to 200 employees
+4472.0,Filisia,f,4.1,t,1984.0,501 to 1000 employees
+4497.0,??,f,2.5,t,1999.0,201 to 500 employees
+4498.0,UFN,f,3.7,t,2000.0,51 to 200 employees
+4506.0,Sinopoulos Panglobal Machinery,f,3.0,t,2019.0,"1,001 to 5,000 employees"
+4522.0,Pico,f,4.0,f,2010.0,11-50 employees
+4536.0,?a Software House,f,2.9,f,2015.0,11-50 employees
+4539.0,Touchstone,f,4.1,t,1990.0,501 to 1000 employees
+4572.0,Emergence Capital Partners,f,3.4,t,1994.0,51 to 200 employees
+4601.0,Alliance Solutions Group,f,4.7,f,1998.0,501 to 1000 employees
+4604.0,Quantate,f,2.8,t,1986.0,501 to 1000 employees
+4620.0,GQ UK,f,3.3,t,2007.0,2-10 employees
+4630.0,Global Reach,f,2.8,f,1984.0,501 to 1000 employees
+4667.0,MoonShine Modern Supper Club,f,4.6,t,1984.0,51 to 200 employees
+4711.0,MarineTraffic,f,4.5,t,2009.0,51 to 200 employees
+4726.0,My New Tax Biz MaxPro Tax,f,3.1,t,2011.0,201 to 500 employees
+4727.0,Radi8 Creative,f,4.0,f,1987.0,"1,001 to 5,000 employees"
+4739.0,Wine Intelligence,f,4.4,f,1989.0,2-10 employees
+4758.0,TaskUs,f,3.8,f,2017.0,51 to 200 employees
+4760.0,Imperatus Ltd,f,3.7,t,2011.0,201 to 500 employees
+4765.0,UNION,f,3.1,t,2007.0,201 to 500 employees
+4798.0,AdExtent,f,2.7,t,1996.0,201 to 500 employees
+4802.0,DMT Instant Reward,t,,,,
+4815.0,Forever 21,f,4.6,t,2010.0,11-50 employees
+4820.0,Novation,t,,,,
+4826.0,Powershop,f,4.6,t,1987.0,11-50 employees
+4851.0,Power-Mark Resources,f,4.0,t,2019.0,51 to 200 employees
+4852.0,Point Nine Capital,f,3.3,t,2004.0,501 to 1000 employees
+4855.0,@mire,f,3.3,t,1988.0,11-50 employees
+4861.0,Insight Venture Partners,f,4.2,t,1981.0,11-50 employees
+4877.0,Yale University,f,4.6,t,1994.0,"1,001 to 5,000 employees"
+4893.0,Insite Software,f,4.5,t,1982.0,2-10 employees
+4896.0,DOW Networks,f,4.3,t,2015.0,"1,001 to 5,000 employees"
+4904.0,BuzzDial,f,4.0,t,1983.0,201 to 500 employees
+4950.0,Magnani Caruso Dutton,f,2.7,t,1993.0,501 to 1000 employees
+4958.0,Crypteia Networks,f,2.9,t,2020.0,11-50 employees
+4965.0,ECG Studio,f,4.6,t,2020.0,2-10 employees
+4966.0,MSQD,f,3.9,t,2004.0,201 to 500 employees
+4969.0,Mission Shopventory,f,2.5,t,1989.0,501 to 1000 employees
+4994.0,Cogo Labs,f,2.7,t,2000.0,201 to 500 employees
+5023.0,Union,f,4.0,t,2015.0,11-50 employees
+5028.0,CitySourced,f,2.5,t,1991.0,201 to 500 employees
+5051.0,Neusoft America,f,2.9,t,2006.0,201 to 500 employees
+5058.0,One Design Company,f,3.8,t,2019.0,201 to 500 employees
+5089.0,ServiceMaster Superior Services,f,4.1,t,1981.0,201 to 500 employees
+5097.0,Nauticon Imaging Systems,f,4.0,t,1992.0,501 to 1000 employees
+5100.0,WRAYS PHARMACY INC,f,3.0,t,2011.0,201 to 500 employees
+5104.0,Millionaires In Training Recruiting Group,f,4.1,t,2010.0,2-10 employees
+5124.0,Handi Ramp,f,3.0,f,1995.0,51 to 200 employees
+5136.0,Ranker,f,3.2,t,2011.0,2-10 employees
+5138.0,Repucom,f,4.2,f,2011.0,51 to 200 employees
+5147.0,Procurement Leaders,f,4.0,t,2013.0,51 to 200 employees
+5192.0,LocationGuru Solutions Pvt. Ltd LocationGuru Solutions,f,4.5,t,1990.0,2-10 employees
+5195.0,AtDrive,f,4.0,t,1989.0,51 to 200 employees
+5206.0,Fresh design,f,3.8,t,1994.0,11-50 employees
+5224.0,SportPointMe,f,2.7,t,1996.0,501 to 1000 employees
+5289.0,BillGuard,f,3.3,t,2019.0,"1,001 to 5,000 employees"
+5318.0,iSystem,f,3.1,f,1997.0,2-10 employees
+5357.0,HSAGlobal,f,3.1,t,1988.0,"1,001 to 5,000 employees"
+5363.0,Campus Concepts,f,4.7,t,2004.0,51 to 200 employees
+5364.0,eproductions,f,3.4,t,2019.0,11-50 employees
+5374.0,Gorilla Logic,f,4.6,t,1993.0,2-10 employees
+5387.0,Nevada Gaming Industry,f,4.0,t,2004.0,51 to 200 employees
+5396.0,Dice,f,4.3,t,2001.0,201 to 500 employees
+5426.0,Round Rock,f,3.7,t,2009.0,201 to 500 employees
+5427.0,ISON Psychometrica,f,3.8,t,1999.0,2-10 employees
+5428.0,Research & Consultancy,f,3.6,t,2000.0,2-10 employees
+5447.0,UBG,f,2.9,t,2011.0,51 to 200 employees
+5499.0,Keycafe,f,4.2,t,2000.0,11-50 employees
+5533.0,LEI Home Enhancements,f,3.1,t,2014.0,11-50 employees
+5534.0,DOTSOFT SA,f,2.6,f,2011.0,11-50 employees
+5548.0,Advancr,f,4.0,t,2009.0,501 to 1000 employees
+5550.0,NaviDeck,f,2.9,t,2018.0,"1,001 to 5,000 employees"
+5551.0,Collabera,f,4.7,t,1991.0,51 to 200 employees
+5568.0,American Kidz Academy,f,4.7,t,2020.0,"1,001 to 5,000 employees"
+5573.0,Cavalier It Inc,f,4.6,f,1997.0,51 to 200 employees
+5575.0,RPR,f,3.4,t,2000.0,51 to 200 employees
+5580.0,CSI International,f,2.5,t,1992.0,11-50 employees
+5597.0,"Information Integration, Inc",f,4.6,t,2000.0,201 to 500 employees
+5618.0,"Systems Technology International, Inc",t,,,,
+5650.0,GrantTree,f,3.5,t,1987.0,"1,001 to 5,000 employees"
+5653.0,Maid Sailors,f,4.7,f,2019.0,201 to 500 employees
+5679.0,Gartner,f,4.7,t,1986.0,51 to 200 employees
+5697.0,G3 Communications,f,4.5,t,2002.0,201 to 500 employees
+5703.0,TaskCentral,f,3.2,t,2011.0,11-50 employees
+5710.0,The Bank of New South Wales,f,3.4,f,1990.0,501 to 1000 employees
+5732.0,"Focus Lab, LLC",f,4.5,t,2001.0,51 to 200 employees
+5735.0,Ministry of Justice,f,3.2,f,2001.0,51 to 200 employees
+5738.0,MSX International,t,,,,
+5747.0,Netigate,f,2.9,t,2004.0,51 to 200 employees
+5789.0,Easybring,f,3.8,t,2001.0,201 to 500 employees
+5795.0,Founders,f,4.7,t,2007.0,2-10 employees
+5813.0,Marketing Mob,f,4.1,t,2008.0,201 to 500 employees
+5823.0,TunedIn,f,3.8,t,1992.0,11-50 employees
+5870.0,Inkly,f,2.7,t,1997.0,201 to 500 employees
+5888.0,JoMedia,f,3.9,t,1981.0,501 to 1000 employees
+5889.0,Tutorizon,f,4.8,t,2008.0,501 to 1000 employees
+5901.0,Openfund,f,2.8,t,2000.0,51 to 200 employees
+5924.0,Quantlab,f,3.7,t,1994.0,51 to 200 employees
+5932.0,Zoottle,f,4.5,f,2006.0,11-50 employees
+5957.0,Glide,f,4.2,t,2010.0,201 to 500 employees
+5972.0,Decisive Data,f,4.1,f,1994.0,11-50 employees
+5976.0,ColorElephant,f,4.1,f,2002.0,51 to 200 employees
+6007.0,Softomotive Ltd,f,3.3,t,2003.0,11-50 employees
+6042.0,LumaCorp Inc,f,3.2,t,1992.0,11-50 employees
+6046.0,UAH,t,,,,
+6069.0,Paymentwall Inc,f,4.4,t,2001.0,201 to 500 employees
+6095.0,London & Hanseatic Bank,f,4.4,t,2016.0,2-10 employees
+6099.0,Alexander McQueen,f,4.5,t,2012.0,201 to 500 employees
+6106.0,Mini Raxevsky S.A,f,4.6,t,1982.0,51 to 200 employees
+6115.0,VolunteerSpot,f,3.7,t,1998.0,2-10 employees
+6156.0,FirstBeatMedia,f,3.7,t,2002.0,51 to 200 employees
+6173.0,Felsburg Holt & Ullevig,f,4.3,t,2008.0,2-10 employees
+6184.0,SEK Solutions,f,4.0,t,2009.0,11-50 employees
+6196.0,Liberated Networks,f,4.1,t,2018.0,201 to 500 employees
+6206.0,East End Food Co-op,f,4.3,t,2004.0,2-10 employees
+6208.0,Signkick,f,4.5,t,2016.0,501 to 1000 employees
+6213.0,Market Logic,f,3.3,t,1987.0,2-10 employees
+6214.0,isMOOD,f,3.4,t,1995.0,11-50 employees
+6215.0,Niume,f,2.7,t,1987.0,201 to 500 employees
+6219.0,Controller Chaos,f,3.8,f,1980.0,51 to 200 employees
+6222.0,Jaguar Land Rover,f,2.6,t,1984.0,11-50 employees
+6227.0,Ballparc,f,3.6,t,1982.0,51 to 200 employees
+6238.0,Netrobe,f,3.7,t,1980.0,11-50 employees
+6244.0,Heafey Group,f,3.2,t,1983.0,501 to 1000 employees
+6255.0,Farmigo,f,3.9,t,2019.0,51 to 200 employees
+6256.0,Ava's Farm,f,2.6,t,2014.0,201 to 500 employees
+6278.0,Southern Cloud,f,2.6,t,2011.0,501 to 1000 employees
+6280.0,ALBA Graduate Business School,f,4.4,t,2013.0,51 to 200 employees
+6285.0,Surpass Software,f,3.3,t,2004.0,"1,001 to 5,000 employees"
+6303.0,Pollfish,f,2.8,t,1989.0,51 to 200 employees
+6312.0,Teachers R? Us,f,3.7,t,2000.0,"1,001 to 5,000 employees"
+6325.0,Abel & Cole,f,4.3,t,2018.0,2-10 employees
+6338.0,Creators Lab,f,3.0,t,2006.0,201 to 500 employees
+6347.0,Dreamers & Creators,f,3.9,t,2006.0,51 to 200 employees
+6360.0,Hudl,f,2.7,t,1981.0,51 to 200 employees
+6396.0,Tweakker,f,2.6,t,2020.0,201 to 500 employees
+6429.0,Panther electronics,f,3.7,t,1992.0,201 to 500 employees
+6432.0,SHC/The Arc of Medina County,f,3.7,t,1988.0,2-10 employees
+6434.0,WhatArmy,f,4.0,t,2015.0,11-50 employees
+6439.0,ISBS Hellas,f,4.2,t,2001.0,201 to 500 employees
+6444.0,?? USEUM,f,4.7,t,2005.0,201 to 500 employees
+6480.0,Relational Technology SA,f,3.7,t,1991.0,"1,001 to 5,000 employees"
+6487.0,University,f,3.2,t,1996.0,201 to 500 employees
+6506.0,Cortilia,f,4.3,t,1993.0,"1,001 to 5,000 employees"
+6509.0,Clearmark Technologies,t,,,,
+6556.0,BGMenu,f,3.1,t,1993.0,201 to 500 employees
+6561.0,Focus Camera,f,3.5,t,2013.0,11-50 employees
+6584.0,Aarki,f,2.7,t,1999.0,11-50 employees
+6614.0,"Nielsen Field Web Solutions, Inc",f,2.6,t,1990.0,201 to 500 employees
+6637.0,JUICE Mobile,f,4.7,t,1995.0,201 to 500 employees
+6640.0,Baremetrics,f,4.4,t,2010.0,2-10 employees
+6642.0,TimeZapp,f,4.1,t,1985.0,51 to 200 employees
+6647.0,Rithmio,f,3.4,t,1998.0,"1,001 to 5,000 employees"
+6648.0,CareerStarter,f,2.9,t,2016.0,51 to 200 employees
+6666.0,FiLo,f,2.9,t,1983.0,51 to 200 employees
+6747.0,Guru,f,3.1,t,1983.0,51 to 200 employees
+6761.0,"Lightyear Consulting, LLC",f,3.8,t,1999.0,11-50 employees
+6762.0,Institute of Language & Speech Processing,f,4.1,t,1989.0,51 to 200 employees
+6763.0,Spring Active,f,4.0,t,2003.0,51 to 200 employees
+6784.0,Xfire,f,3.1,t,2014.0,2-10 employees
+6804.0,Jeffrey Parker Architects,f,4.7,t,2005.0,201 to 500 employees
+6895.0,Ambir,f,4.2,t,2016.0,51 to 200 employees
+6925.0,Allied Secured Benefits,f,3.8,t,2017.0,501 to 1000 employees
+6931.0,Project2,f,3.9,t,2000.0,501 to 1000 employees
+6938.0,NEURS LLC,f,3.5,t,2019.0,11-50 employees
+6941.0,Flippo,f,3.1,t,2018.0,201 to 500 employees
+6960.0,Wrangler,f,3.3,t,2000.0,51 to 200 employees
+7018.0,Cardisoft,f,4.2,t,1989.0,501 to 1000 employees
+7041.0,PROFILE,f,2.5,t,2017.0,11-50 employees
+7081.0,NESCO Rentals,f,2.8,t,1983.0,201 to 500 employees
+7088.0,GoRefi,f,2.6,f,1999.0,201 to 500 employees
+7110.0,MedTalent,f,2.6,t,1996.0,11-50 employees
+7135.0,"APR Consulting, Inc",f,4.5,t,1986.0,11-50 employees
+7142.0,Recroot,f,4.1,t,1983.0,201 to 500 employees
+7144.0,A Hotel Digital Marketing Agency,f,3.6,t,2008.0,201 to 500 employees
+7147.0,Neurocom,f,2.7,t,1993.0,51 to 200 employees
+7154.0,Merchenta,f,3.6,t,1982.0,201 to 500 employees
+7171.0,Indiana State Government,f,3.6,t,2003.0,51 to 200 employees
+7179.0,Head y Talent Hunting,f,2.9,t,2016.0,201 to 500 employees
+7182.0,Straight Edge Technology,f,3.5,f,1995.0,11-50 employees
+7225.0,Roll the Clip,f,3.4,t,1983.0,501 to 1000 employees
+7249.0,Middle East Recruitment,f,3.9,t,2003.0,11-50 employees
+7253.0,Ebury,f,4.0,f,2013.0,51 to 200 employees
+7264.0,Elliptic,f,2.6,t,2009.0,2-10 employees
+7307.0,SGS,f,3.4,f,1997.0,11-50 employees
+7311.0,Electronic Information Display Systems,f,3.9,t,1998.0,51 to 200 employees
+7322.0,Fiction,f,3.7,t,2010.0,11-50 employees
+7365.0,NL Group,f,4.5,t,1998.0,501 to 1000 employees
+7370.0,Even & Odd Minds,f,4.0,t,1998.0,2-10 employees
+7383.0,Aegis,t,,,,
+7406.0,Pronto,f,2.9,t,2001.0,51 to 200 employees
+7411.0,Telenavis S.A,f,2.7,t,2003.0,51 to 200 employees
+7443.0,Sage Data Security,f,4.0,t,1991.0,2-10 employees
+7452.0,emaginal AG,f,2.6,t,2009.0,11-50 employees
+7460.0,Currency Cloud,f,3.8,t,2017.0,51 to 200 employees
+7473.0,Shirley Parsons LLC,f,4.7,t,2010.0,51 to 200 employees
+7494.0,Climb Credit,f,3.8,f,2015.0,51 to 200 employees
+7508.0,deVere Group,f,3.4,f,1998.0,51 to 200 employees
+7541.0,dimoso,f,4.0,t,2015.0,51 to 200 employees
+7549.0,National Observatory of Athens,f,3.6,t,2009.0,2-10 employees
+7552.0,BroadPeak Partners,f,3.8,t,2012.0,51 to 200 employees
+7554.0,Justipher Inc,f,4.7,t,1997.0,"1,001 to 5,000 employees"
+7613.0,AT Internet,f,3.4,t,2007.0,51 to 200 employees
+7614.0,Shop Hers,f,4.7,t,1990.0,201 to 500 employees
+7619.0,Axia Ventures Group,f,4.6,t,2012.0,51 to 200 employees
+7632.0,SalesDouble,f,3.0,t,1996.0,201 to 500 employees
+7634.0,GTS,f,2.7,t,1985.0,201 to 500 employees
+7636.0,Helix,f,2.7,t,1983.0,51 to 200 employees
+7657.0,Ixonos,f,2.5,t,1999.0,"1,001 to 5,000 employees"
+7658.0,NetConstructor,f,2.7,f,2006.0,11-50 employees
+7694.0,Delishery,f,4.1,t,1994.0,2-10 employees
+7727.0,The New York Times,f,2.7,t,1985.0,201 to 500 employees
+7731.0,42matters AG,f,3.2,t,1993.0,501 to 1000 employees
+7770.0,Hascor,t,,,,
+7785.0,Webjar,f,4.4,t,1990.0,11-50 employees
+7786.0,GP Strategies Limited,f,2.6,t,2018.0,11-50 employees
+7789.0,VBOT TV,f,4.4,t,1988.0,2-10 employees
+7909.0,Auto Dealership Group,f,3.1,t,2005.0,11-50 employees
+7939.0,Vantage PR,f,2.8,t,1995.0,201 to 500 employees
+7947.0,LKM Search Solutions,f,4.1,t,1984.0,51 to 200 employees
+7963.0,Titan,f,3.9,t,1989.0,51 to 200 employees
+7974.0,Create More,f,4.5,f,1982.0,51 to 200 employees
+7979.0,Sc,f,4.2,t,1992.0,2-10 employees
+8035.0,MediaKids Academy,f,4.3,t,2009.0,11-50 employees
+8071.0,Nubis,f,3.1,f,1985.0,201 to 500 employees
+8104.0,LetterStream,f,2.9,t,1996.0,"1,001 to 5,000 employees"
+8151.0,LanguageWire,f,4.2,t,1998.0,501 to 1000 employees
+8176.0,JadoPado,f,4.4,t,2014.0,2-10 employees
+8193.0,dxw dxw,f,4.8,t,2005.0,501 to 1000 employees
+8216.0,Fat Atom,f,3.4,f,1984.0,201 to 500 employees
+8240.0,Kuester Companies,f,3.4,t,2008.0,201 to 500 employees
+8241.0,Trading Economics,f,4.3,t,2016.0,51 to 200 employees
+8279.0,GaggleAMP,f,3.3,t,1999.0,51 to 200 employees
+8302.0,Axelerant,f,4.6,t,2000.0,51 to 200 employees
+8320.0,DP Connect,f,4.5,t,1989.0,2-10 employees
+8322.0,Typeform,f,3.5,t,1984.0,11-50 employees
+8329.0,Protechnique Ltd,f,4.2,t,2015.0,11-50 employees
+8333.0,Conversion Factory,f,4.2,t,1985.0,51 to 200 employees
+8345.0,"BroadSign International, LLC",f,2.7,t,2005.0,201 to 500 employees
+8358.0,Judicata,f,4.6,f,1983.0,51 to 200 employees
+8374.0,Sarbari,f,3.7,t,2018.0,2-10 employees
+8400.0,American Society of Civil Engineers,f,4.4,t,2018.0,"1,001 to 5,000 employees"
+8476.0,Maguru,f,3.2,t,2014.0,"1,001 to 5,000 employees"
+8544.0,Net Solutions,f,4.6,t,1980.0,201 to 500 employees
+8555.0,Sheepfish,f,3.4,t,2003.0,"1,001 to 5,000 employees"
+8561.0,Mutual Mobile,f,2.5,t,2015.0,51 to 200 employees
+8607.0,Kudoserve,f,4.6,t,1985.0,"1,001 to 5,000 employees"
+8626.0,University of Chicago,f,2.7,t,2020.0,2-10 employees
+8628.0,LawnStarter,f,3.2,t,2010.0,51 to 200 employees
+8636.0,TI foda,f,4.7,f,1999.0,11-50 employees
+8669.0,Lakefront Brewery,f,4.7,t,2003.0,11-50 employees
+8679.0,Sustainable Ventures,f,3.8,t,2004.0,11-50 employees
+8697.0,Filament Labs,f,4.0,t,2015.0,201 to 500 employees
+8716.0,"Emission Monitoring Service, Inc",f,3.5,t,2000.0,201 to 500 employees
+8719.0,Protechnique Australia,f,3.2,t,2009.0,51 to 200 employees
+8815.0,t,f,3.3,t,2003.0,11-50 employees
+8840.0,Keen360,f,4.0,t,2009.0,501 to 1000 employees
+8875.0,Bessemer Venture Partners,f,4.2,t,2001.0,201 to 500 employees
+8899.0,Crowd,f,4.3,t,2007.0,51 to 200 employees
+8916.0,Triangle Workforce,f,4.3,t,1986.0,201 to 500 employees
+8920.0,Basil Lifecare Pvt. Ltd,t,,,,
+8949.0,MacTay Group,f,2.7,t,2014.0,11-50 employees
+8960.0,Cancer for College,f,3.6,t,2007.0,51 to 200 employees
+9023.0,E-Car Club,f,2.6,t,1993.0,"1,001 to 5,000 employees"
+9026.0,ProTenders,f,3.8,t,1989.0,11-50 employees
+9039.0,Fifty Pixels,f,3.5,t,1995.0,51 to 200 employees
+9040.0,SocialTaste,f,4.5,t,1995.0,501 to 1000 employees
+9062.0,Cytech,f,3.3,t,2010.0,201 to 500 employees
+9117.0,Eastridg??e,f,2.8,t,2004.0,2-10 employees
+9130.0,CENET,f,2.8,t,1992.0,11-50 employees
+9151.0,Leapfrog Services,f,4.3,t,1985.0,2-10 employees
+9181.0,Favado,f,3.9,t,1988.0,201 to 500 employees
+9186.0,Haltian,f,2.7,t,2015.0,51 to 200 employees
+9211.0,HPS,f,2.7,t,1999.0,11-50 employees
+9220.0,DNHOST,f,4.1,t,1997.0,"1,001 to 5,000 employees"
+9286.0,TouchLab,f,2.7,t,2000.0,51 to 200 employees
+9335.0,Slable,f,4.4,t,1983.0,11-50 employees
+9336.0,Climate Corporation,t,,,,
+9344.0,Expatriate Lifestyle Magazine,t,,,,
+9380.0,CRM Consulting,f,4.1,t,2012.0,51 to 200 employees
+9432.0,Schroeder Solutions,f,2.7,t,2006.0,201 to 500 employees
+9451.0,Levo League,f,2.7,f,1986.0,2-10 employees
+9456.0,"LI Staffing, Inc",f,4.8,t,1985.0,11-50 employees
+9458.0,MaxPlay?,f,3.4,t,1994.0,501 to 1000 employees
+9467.0,Roomcase,f,3.4,t,1997.0,51 to 200 employees
+9485.0,Fortune Brands,f,4.4,t,2011.0,51 to 200 employees
+9486.0,Vortex®,f,4.7,t,1990.0,51 to 200 employees
+9489.0,Learning Enterprises,f,4.8,t,1999.0,2-10 employees
+9511.0,DTE Energy,t,,,,
+9516.0,Secret Sauce Partners,f,4.2,t,2003.0,11-50 employees
+9521.0,Cultinet,f,3.4,t,1994.0,51 to 200 employees
+9577.0,AVEX Funding,f,2.7,t,1986.0,11-50 employees
+9617.0,TESM,f,4.3,t,2000.0,2-10 employees
+9665.0,Practical Fish,f,3.8,t,2005.0,501 to 1000 employees
+9742.0,Rocketgraph,f,3.5,t,1993.0,"1,001 to 5,000 employees"
+9743.0,Network Locum,f,4.6,t,2016.0,201 to 500 employees
+9795.0,Metal Clay Ltd,f,2.8,t,2000.0,501 to 1000 employees
+9830.0,Bluesmart,f,3.6,t,1997.0,11-50 employees
+9834.0,MeUndies,f,2.5,t,1984.0,"1,001 to 5,000 employees"
+9842.0,Threenitas S.A,f,3.6,t,1982.0,11-50 employees
+9853.0,"Green One Transportation, Inc",f,2.6,t,2002.0,"1,001 to 5,000 employees"
+9871.0,Frontline Solutions,f,2.8,t,2005.0,"1,001 to 5,000 employees"
+9881.0,Parrot Analytics,f,2.8,t,2016.0,201 to 500 employees
+9891.0,Transpoco,f,4.0,t,2003.0,"1,001 to 5,000 employees"
+9900.0,Talent Response,f,4.2,t,1998.0,51 to 200 employees
+9930.0,PPD Partners,f,3.8,t,2004.0,11-50 employees
+9972.0,Pollen,f,4.7,f,2000.0,51 to 200 employees
+9999.0,Avazzar,f,3.4,t,1991.0,51 to 200 employees
+10030.0,Inc,f,3.2,t,2020.0,2-10 employees
+10068.0,Essence,f,4.5,t,2012.0,201 to 500 employees
+10132.0,Zenith Talent,f,3.0,t,1983.0,"1,001 to 5,000 employees"
+10161.0,European Union,f,4.7,t,1986.0,11-50 employees
+10162.0,Mobile Apps Development,f,2.5,t,2001.0,201 to 500 employees
+10174.0,Cententia,f,4.7,t,2012.0,"1,001 to 5,000 employees"
+10271.0,CGSoft,f,2.6,t,1996.0,"1,001 to 5,000 employees"
+10288.0,Sendence,f,4.5,t,2003.0,"1,001 to 5,000 employees"
+10312.0,Human Resource Solutions for,f,3.7,t,2013.0,51 to 200 employees
+10342.0,Managed IT Services,f,4.8,t,2007.0,"1,001 to 5,000 employees"
+10344.0,S2scout,f,2.7,t,2020.0,201 to 500 employees
+10399.0,Yevvo,f,3.8,t,2018.0,11-50 employees
+10427.0,mokaal,f,4.7,t,2001.0,51 to 200 employees
+10502.0,Sagacity Search,f,3.7,t,1996.0,201 to 500 employees
+10531.0,Pockee,f,3.9,t,2013.0,11-50 employees
+10543.0,Lacoon Security,f,4.1,t,1985.0,201 to 500 employees
+10565.0,Wizcorp,f,3.5,t,1985.0,201 to 500 employees
+10623.0,IDEAL Group,f,3.9,t,2013.0,11-50 employees
+10624.0,Everywhere,f,3.8,t,1980.0,51 to 200 employees
+10646.0,X-Team,f,4.6,t,1989.0,201 to 500 employees
+10653.0,Divine Medical Billing,f,2.6,t,2000.0,51 to 200 employees
+10659.0,theAudience,f,3.1,f,1984.0,2-10 employees
+10692.0,Data Collective Venture Capital,f,4.7,t,1981.0,2-10 employees
+10705.0,or Doctor,f,4.5,t,2001.0,51 to 200 employees
+10775.0,Bio Springer,f,3.5,t,1981.0,"1,001 to 5,000 employees"
+10784.0,"Walker Engineering, Inc",f,3.9,t,1989.0,11-50 employees
+10785.0,Locus Analytics,f,3.1,t,2013.0,201 to 500 employees
+10804.0,"Suneris, Inc",f,2.9,t,1995.0,11-50 employees
+10843.0,Local Projects,f,3.6,t,2018.0,51 to 200 employees
+10848.0,Shipster,f,3.3,t,2001.0,501 to 1000 employees
+10855.0,Wellcentive,f,3.8,f,1991.0,201 to 500 employees
+10884.0,"Commonwealth Capital, LLC",f,2.7,f,2003.0,2-10 employees
+10901.0,"Jolie Cheveux, Inc",f,4.7,t,2019.0,51 to 200 employees
+10917.0,ComboApp,f,4.8,t,2017.0,2-10 employees
+10930.0,All Points Broadband,f,4.1,t,1989.0,51 to 200 employees
+10939.0,POSist,f,3.7,t,2014.0,201 to 500 employees
+10941.0,DAYTA Marketing,f,3.2,t,2011.0,11-50 employees
+10955.0,Living Labs Global,f,4.4,t,1986.0,11-50 employees
+10974.0,MED SALES FORCE,f,4.1,t,2000.0,51 to 200 employees
+11031.0,PetroCargo LLC,f,2.9,t,1999.0,"1,001 to 5,000 employees"
+11085.0,Black Tux,f,4.6,t,2005.0,"1,001 to 5,000 employees"
+11090.0,Costa coffee,f,4.4,t,1983.0,2-10 employees
+11114.0,Virtual Lingos,f,4.7,t,2001.0,201 to 500 employees
+11124.0,Book?n?Bloom,f,4.2,t,1994.0,51 to 200 employees
+11146.0,Quest Livery Leasing LLC,f,3.9,t,2019.0,51 to 200 employees
+11174.0,Metamaterial Technologies Inc,f,3.5,f,2000.0,201 to 500 employees
+11179.0,Rarely Impossible,f,4.6,t,1994.0,"1,001 to 5,000 employees"
+11235.0,Synapse Games,f,4.5,t,2001.0,"1,001 to 5,000 employees"
+11252.0,Joomag,f,2.6,t,2007.0,51 to 200 employees
+11254.0,Infrascale,f,2.6,t,1993.0,51 to 200 employees
+11280.0,AssistRx,f,3.4,t,2006.0,201 to 500 employees
+11339.0,AREX,f,4.4,t,2020.0,11-50 employees
+11355.0,Piece & Co,f,4.8,t,2019.0,51 to 200 employees
+11386.0,AutoAmerica,f,2.8,f,2007.0,51 to 200 employees
+11402.0,Pixelberry Studios,f,3.9,t,2005.0,201 to 500 employees
+11410.0,XPRIZE Foundation,f,3.4,t,1981.0,11-50 employees
+11417.0,Murdock Martell,f,4.7,t,2004.0,11-50 employees
+11432.0,ACS Co,f,4.4,f,1982.0,"1,001 to 5,000 employees"
+11455.0,Formula Resources,f,4.4,t,1987.0,11-50 employees
+11462.0,SLV,f,3.6,t,2012.0,51 to 200 employees
+11485.0,Ambit Energy,f,3.5,t,2014.0,11-50 employees
+11508.0,Inc42,f,3.1,t,1985.0,2-10 employees
+11573.0,Resy,f,2.6,t,2018.0,2-10 employees
+11586.0,Wanderio,f,4.5,t,2002.0,11-50 employees
+11723.0,News360,f,4.4,f,2004.0,501 to 1000 employees
+11744.0,ForeFront,f,4.8,t,1998.0,11-50 employees
+11746.0,KEPLAR AGENCY,f,4.8,t,1984.0,"1,001 to 5,000 employees"
+11749.0,Anittel,f,3.8,f,1990.0,51 to 200 employees
+11756.0,bwired,f,4.3,t,1991.0,51 to 200 employees
+11792.0,TOPOSOPHY,f,4.7,t,1989.0,51 to 200 employees
+11869.0,Lore Ventures,f,4.5,t,1987.0,51 to 200 employees
+11875.0,Mutatio,f,3.1,t,2003.0,201 to 500 employees
+11895.0,Phoenix Home Care,f,3.5,t,2007.0,11-50 employees
+11896.0,C2C,f,2.8,t,2020.0,51 to 200 employees
+11988.0,Tal & Associates,f,4.7,t,2015.0,501 to 1000 employees
+12003.0,Blues Jewellery,f,3.9,t,2016.0,"1,001 to 5,000 employees"
+12038.0,T.A. Maverick,f,3.0,t,2000.0,501 to 1000 employees
+12044.0,Europy,f,4.0,t,1987.0,51 to 200 employees
+12053.0,Amplexor,f,3.9,t,1988.0,201 to 500 employees
+12065.0,Prince Industries,f,3.3,f,1994.0,51 to 200 employees
+12069.0,Openlane,f,2.8,t,2019.0,51 to 200 employees
+12127.0,SQLearn,f,4.0,t,1997.0,11-50 employees
+12128.0,River Oaks Chiropractic Clinic,f,3.7,t,1999.0,51 to 200 employees
+12149.0,eNannySource,f,4.3,t,1985.0,11-50 employees
+12186.0,Flexasoft,f,3.7,t,1991.0,51 to 200 employees
+12253.0,Century 21 Martinez & Associates,f,4.5,f,1981.0,501 to 1000 employees
+12277.0,Intergen,f,3.8,t,1986.0,11-50 employees
+12313.0,Moxie Labs,f,3.8,t,1995.0,2-10 employees
+12325.0,Gymia,f,4.5,t,1982.0,2-10 employees
+12334.0,Netotiate©,f,3.4,t,1982.0,"1,001 to 5,000 employees"
+12338.0,Todaymade,f,2.8,t,2006.0,51 to 200 employees
+12344.0,Old St Labs,f,2.6,t,2019.0,51 to 200 employees
+12347.0,LogiSense Corporation,f,4.2,t,2017.0,501 to 1000 employees
+12391.0,Avelgood Apps,f,3.9,t,2012.0,501 to 1000 employees
+12415.0,MarkaVIP,f,4.1,t,2007.0,51 to 200 employees
+12434.0,Save-In,f,3.0,t,1980.0,201 to 500 employees
+12467.0,GetIntent,f,2.8,t,1987.0,201 to 500 employees
+12487.0,Zimplistic,f,2.5,t,2016.0,201 to 500 employees
+12511.0,WDM,f,3.3,t,2011.0,11-50 employees
+12515.0,"Seismic Exchange, Inc",f,3.9,t,2016.0,501 to 1000 employees
+12528.0,CloudShare,f,3.4,t,1983.0,51 to 200 employees
+12530.0,World Ship One,f,3.5,t,2009.0,11-50 employees
+12537.0,Monroe Staffing,f,4.6,t,1985.0,51 to 200 employees
+12541.0,i-Recruit LLC,f,3.3,t,1998.0,2-10 employees
+12576.0,Social Asylum,f,3.7,t,2011.0,11-50 employees
+12619.0,Pierce Mattie Communications,f,4.3,t,1988.0,201 to 500 employees
+12621.0,Hopper,f,3.4,t,1991.0,2-10 employees
+12663.0,Geotag Aeroview,f,3.9,t,1990.0,51 to 200 employees
+12673.0,OBXtek,f,4.5,t,1995.0,51 to 200 employees
+12681.0,Epikinonia,f,4.7,t,1980.0,2-10 employees
+12685.0,GetTaxi,f,2.8,t,2000.0,"1,001 to 5,000 employees"
+12738.0,Alert Logic,f,4.6,t,2009.0,11-50 employees
+12747.0,Blue Dot HR,f,3.6,f,1992.0,51 to 200 employees
+12760.0,Salesforce Foundation,f,3.1,t,2013.0,51 to 200 employees
+12814.0,Tavel Family Eyecare,f,3.6,t,1983.0,11-50 employees
+12847.0,Aflac,f,4.8,t,2007.0,2-10 employees
+12852.0,Duco,f,3.6,f,2017.0,201 to 500 employees
+12879.0,LanternCRM,f,3.3,t,2010.0,"1,001 to 5,000 employees"
+12897.0,Bewdd & Associates,f,4.0,t,2006.0,11-50 employees
+12905.0,Maria's Gourmet Kitchen,f,3.1,t,1984.0,201 to 500 employees
+12930.0,National Technical University of Athens,f,2.7,t,2004.0,201 to 500 employees
+12956.0,The Clever Consultancy Ltd,f,2.8,f,1982.0,501 to 1000 employees
+12959.0,Sellbrite,f,2.8,f,2012.0,51 to 200 employees
+12963.0,MyTime Apps,f,2.8,t,1983.0,51 to 200 employees
+12983.0,KatalystFP,f,2.8,f,2004.0,51 to 200 employees
+12985.0,Xpitality,f,4.0,t,1999.0,201 to 500 employees
+13006.0,ParcelBright,f,2.9,t,2013.0,501 to 1000 employees
+13055.0,Horizon Video Technologies Inc,f,3.3,t,2005.0,11-50 employees
+13083.0,"Marketing, Design & Development Agency",f,4.6,t,1984.0,51 to 200 employees
+13098.0,Boat International Media Limited,f,3.6,t,2014.0,"1,001 to 5,000 employees"
+13105.0,DEEP Inc,f,4.0,t,2007.0,501 to 1000 employees
+13169.0,Heath Appointments,f,2.9,t,2008.0,"1,001 to 5,000 employees"
+13185.0,VERB,f,2.9,t,1988.0,201 to 500 employees
+13229.0,Inn,f,2.6,t,2017.0,51 to 200 employees
+13244.0,De Novo Group,f,2.9,t,1985.0,51 to 200 employees
+13279.0,Loftplan,f,3.1,t,1998.0,201 to 500 employees
+13304.0,WineAccess,f,2.9,t,1990.0,2-10 employees
+13360.0,Indicative,f,2.7,f,1981.0,51 to 200 employees
+13368.0,Homeopathic Pharmacy,f,2.8,t,1988.0,201 to 500 employees
+13379.0,Lesaffre Yeast Corporation,f,3.6,t,2000.0,11-50 employees
+13443.0,Gear Patrol,f,3.0,t,2003.0,201 to 500 employees
+13446.0,Cloudit,f,3.3,t,2013.0,51 to 200 employees
+13489.0,MarPoint,f,3.7,t,2001.0,"1,001 to 5,000 employees"
+13523.0,"Financial Service Group, Inc",f,4.1,t,1982.0,2-10 employees
+13549.0,Ops,f,2.6,t,1991.0,11-50 employees
+13566.0,Enterprise Content Management,f,4.3,f,2007.0,201 to 500 employees
+13658.0,Paramount Services,f,3.9,t,2009.0,11-50 employees
+13694.0,Red Canary,f,2.7,t,2005.0,201 to 500 employees
+13729.0,SynerTel,f,4.5,t,2000.0,201 to 500 employees
+13762.0,ClearPoint,f,4.6,t,2007.0,11-50 employees
+13790.0,Every Child Achieves,f,2.6,t,2005.0,51 to 200 employees
+13815.0,FlashFunders,f,3.1,t,2012.0,51 to 200 employees
+13840.0,Makers Academy,f,4.4,f,2000.0,51 to 200 employees
+13843.0,Backbone,f,4.2,t,2014.0,"1,001 to 5,000 employees"
+13846.0,"iSparks, Inc",f,2.9,t,2013.0,501 to 1000 employees
+13851.0,Brosa,f,3.0,t,2020.0,201 to 500 employees
+13880.0,Rocket Internet Rocket,f,3.4,t,1997.0,201 to 500 employees
+13901.0,"Palerra, Inc",f,3.6,t,1990.0,51 to 200 employees
+13932.0,? Play Venture,f,3.9,t,2002.0,"1,001 to 5,000 employees"
+14012.0,HealthcareLink,f,3.3,t,2001.0,201 to 500 employees
+14016.0,Artech,f,3.6,t,1996.0,201 to 500 employees
+14092.0,Net Friends,f,4.2,f,1984.0,501 to 1000 employees
+14094.0,Smart Data Systems,f,2.6,t,1990.0,11-50 employees
+14114.0,HeaderLabs,f,3.1,f,2009.0,501 to 1000 employees
+14135.0,Home Source,f,4.1,t,1994.0,11-50 employees
+14209.0,KATALYST,f,4.6,t,2006.0,51 to 200 employees
+14213.0,Coachbase,f,3.7,t,2014.0,51 to 200 employees
+14223.0,Thirty Labs,f,3.7,t,2012.0,"1,001 to 5,000 employees"
+14276.0,Marc Bell Capital Partners,f,2.7,t,1999.0,501 to 1000 employees
+14281.0,Jolie Cheveux,f,3.5,t,1995.0,201 to 500 employees
+14312.0,Project J,f,3.7,t,2013.0,201 to 500 employees
+14363.0,Gata Labs,f,3.1,t,1981.0,51 to 200 employees
+14382.0,PCCW Global,f,3.1,t,2014.0,"1,001 to 5,000 employees"
+14443.0,Hello Show,f,3.4,t,2019.0,51 to 200 employees
+14445.0,BDI,f,2.5,t,2007.0,51 to 200 employees
+14454.0,Ya ra Canada,f,3.2,t,2018.0,11-50 employees
+14494.0,Sportaff (FBN) Ltd,f,3.0,t,1985.0,201 to 500 employees
+14546.0,Advantone,f,3.3,t,1988.0,201 to 500 employees
+14569.0,HWL Aluminium,f,2.8,t,1999.0,51 to 200 employees
+14715.0,Lessard Design,f,4.5,t,1980.0,2-10 employees
+14727.0,InRuntime,f,3.9,t,1987.0,501 to 1000 employees
+14769.0,Greek Villas,f,4.1,t,2002.0,2-10 employees
+14837.0,"Legion Logistics, LLC",f,4.3,t,1982.0,201 to 500 employees
+14847.0,Benny,f,3.6,t,1983.0,"1,001 to 5,000 employees"
+14879.0,Computer St. Louis,f,2.7,t,2004.0,51 to 200 employees
+14940.0,Printfresh,f,3.7,t,2017.0,11-50 employees
+14951.0,"Traffic Safety Systems, Innovation & Partnership",f,3.8,t,1994.0,201 to 500 employees
+14972.0,Supergiftme,f,4.2,t,2000.0,501 to 1000 employees
+14977.0,Mousera,f,3.5,t,2014.0,51 to 200 employees
+14991.0,Optimity,f,2.8,t,1993.0,"1,001 to 5,000 employees"
+15007.0,TalentSphere,f,3.2,t,2015.0,2-10 employees
+15061.0,Rocket Internet,f,3.3,t,1991.0,51 to 200 employees
+15138.0,airfy,f,4.0,t,1996.0,201 to 500 employees
+15141.0,Midven,f,3.8,t,2018.0,501 to 1000 employees
+15242.0,Sabre Real Estate Group,f,3.3,t,1988.0,11-50 employees
+15243.0,Zingle,f,4.8,t,2014.0,501 to 1000 employees
+15343.0,Carterstones Estate Agents,f,3.9,t,1992.0,51 to 200 employees
+15371.0,or's Excellent Technology,f,3.0,t,1994.0,51 to 200 employees
+15413.0,Athletes? Performance and Core Performance,f,2.7,t,1997.0,11-50 employees
+15456.0,improvIT,f,2.9,t,2012.0,501 to 1000 employees
+15510.0,Fleetio,f,3.1,t,1985.0,11-50 employees
+15556.0,GLAMSQUAD,f,2.9,t,2006.0,51 to 200 employees
+15680.0,Grandata,f,2.9,t,2002.0,11-50 employees
+15707.0,Addy,f,3.2,t,2006.0,501 to 1000 employees
+15717.0,Sabot,f,2.9,t,2013.0,201 to 500 employees
+15765.0,Internet Engine,f,4.6,t,2017.0,201 to 500 employees
+15774.0,Instrumental,f,2.7,t,1993.0,11-50 employees
+15796.0,Kalon Creative,f,3.7,t,2015.0,201 to 500 employees
+15799.0,College Girl Cleaning Service,f,3.4,t,1987.0,51 to 200 employees
+15828.0,Bowery,f,4.8,f,2014.0,501 to 1000 employees
+15830.0,Blue Point Trading,f,2.8,t,1998.0,"1,001 to 5,000 employees"
+15879.0,DRS Technologies,t,,,,
+16125.0,Carr Gomm,f,3.4,t,2009.0,2-10 employees
+16146.0,The Online Talent Booking Agency,f,4.7,t,1993.0,201 to 500 employees
+16148.0,Son of a Tailor,f,4.5,t,1999.0,2-10 employees
+16152.0,ROC,f,4.4,t,2004.0,51 to 200 employees
+16175.0,Farmers Insurance Group of Companies,f,3.1,t,2019.0,11-50 employees
+16263.0,Dropl,f,2.9,f,2003.0,51 to 200 employees
+16346.0,SplitFive,f,4.0,t,1993.0,51 to 200 employees
+16445.0,FusionTek,f,4.6,f,2005.0,201 to 500 employees
+16497.0,Nectar Creative Communications,f,3.8,t,2017.0,51 to 200 employees
+16505.0,Wheely,f,3.8,t,2002.0,201 to 500 employees
+16510.0,RxData,f,3.1,t,2001.0,51 to 200 employees
+16574.0,AMCO ABEE,f,4.3,t,1998.0,2-10 employees
+16734.0,Mailcloud,f,2.9,t,1982.0,201 to 500 employees
+16857.0,MG Code,f,3.2,t,1998.0,11-50 employees
+16886.0,VTEX,f,3.5,t,1988.0,51 to 200 employees
+16991.0,"clearAvenue, LLC clearAvenue",f,3.7,t,2007.0,201 to 500 employees
+17012.0,"Black Tie Cars, Inc",f,3.1,t,1999.0,51 to 200 employees
+17014.0,e-Solutions Inc,f,2.8,t,1986.0,2-10 employees
+17088.0,CCS Digital Education,f,3.9,t,1993.0,51 to 200 employees
+17094.0,???,f,3.2,t,1988.0,"1,001 to 5,000 employees"
+17116.0,REAL Dietitian,f,3.8,t,1998.0,201 to 500 employees
+17183.0,Horizon SA International Transports,f,2.9,t,1993.0,201 to 500 employees
+17306.0,Coldwell Banker Burnet,f,3.6,t,2017.0,201 to 500 employees
+17309.0,Webdata Solutions,f,3.7,t,2015.0,11-50 employees
+17311.0,Tribal Worldwide Athens,f,2.6,t,2019.0,51 to 200 employees
+17320.0,Runscope,f,3.3,t,1996.0,201 to 500 employees
+17323.0,Grizzly Agency,f,2.8,t,2009.0,11-50 employees
+17325.0,IntrinsicTel,f,2.6,t,1988.0,11-50 employees
+17326.0,KCS,f,4.8,t,2012.0,11-50 employees
+17327.0,TriNet,f,3.2,t,2004.0,51 to 200 employees
+17331.0,Network Closing Services,f,4.4,f,1993.0,"1,001 to 5,000 employees"
+17335.0,Bartow Ford,f,3.1,t,1990.0,2-10 employees
+17377.0,Tristan Sims International,f,4.1,t,2014.0,51 to 200 employees
+17383.0,AbZorba,f,4.2,t,2020.0,11-50 employees
+17384.0,"Principal Consulting, Inc",f,3.9,t,1993.0,"1,001 to 5,000 employees"
+17390.0,VAM SYSTEMS,f,3.6,t,2009.0,11-50 employees
+17391.0,Trans4u Ltd,f,3.4,f,2020.0,51 to 200 employees
+17396.0,PeerPoint Solutions,f,3.3,t,1983.0,201 to 500 employees
+17398.0,Patrick Ryen Employment Solutions,f,4.6,t,1983.0,201 to 500 employees
+17402.0,Mageca,f,4.4,t,2007.0,51 to 200 employees
+17417.0,The Learning Lab,f,4.7,t,1987.0,51 to 200 employees
+17422.0,"Geotechnology, Inc",f,2.8,t,1981.0,51 to 200 employees
+17424.0,"Windham Brannon, PC",f,4.2,t,2020.0,11-50 employees
+17432.0,TechIndyeah,f,4.7,t,2001.0,11-50 employees
+17446.0,TRAK Services,f,2.9,t,2020.0,51 to 200 employees
+17449.0,Selectus,f,2.7,f,1995.0,11-50 employees
+17494.0,HLT,f,4.2,t,2008.0,11-50 employees
+17498.0,GLOBAL BEACH,f,3.8,t,2009.0,201 to 500 employees
+17517.0,Hy-Safe Technology,f,4.4,t,1991.0,"1,001 to 5,000 employees"
+17539.0,Olympus Advertising,f,2.8,t,2014.0,201 to 500 employees
+17554.0,Maynard Consulting Company,t,,,,
+17600.0,"United Lawnscape, Inc",f,4.3,t,1990.0,2-10 employees
+17607.0,GRNET,f,3.0,t,2000.0,2-10 employees
+17616.0,Advaion,f,2.9,t,2000.0,"1,001 to 5,000 employees"
+17634.0,AbellTech,f,2.9,t,1984.0,11-50 employees
+17637.0,Debtor Daddy,f,4.4,t,1999.0,2-10 employees
+17685.0,Zak Group,f,4.0,t,2016.0,51 to 200 employees
+17713.0,marcus evans,f,3.7,t,1982.0,201 to 500 employees
+17801.0,HRM Recruiters,f,3.3,t,2012.0,201 to 500 employees
+17802.0,Benefex,f,4.5,t,1988.0,11-50 employees
+17860.0,Central Office Systems,f,3.4,t,1988.0,2-10 employees
+17902.0,SJI International Elementary School,f,4.4,t,1983.0,"1,001 to 5,000 employees"
+17948.0,Wake County Public Libraries,f,3.5,t,2014.0,11-50 employees
+18005.0,North Star (Guernsey) Ltd,f,3.4,t,1996.0,201 to 500 employees
+18044.0,SocialChorus,f,3.6,t,2013.0,201 to 500 employees
+18070.0,ADstruc,f,3.2,t,2003.0,201 to 500 employees
+18080.0,Dayton Toyota,f,4.2,t,2011.0,51 to 200 employees
+18102.0,Canucks Sports & Entertainment,f,3.7,t,1980.0,11-50 employees
+18111.0,Smilers Selection,f,3.0,t,1987.0,51 to 200 employees
+18224.0,Sensai,f,4.6,t,2002.0,501 to 1000 employees
+18235.0,Enozom,f,3.4,t,2019.0,"1,001 to 5,000 employees"
+18244.0,Construction Information Systems,f,3.8,f,1991.0,11-50 employees
+18256.0,SanVista,f,4.6,t,1991.0,11-50 employees
+18316.0,Your Phone Connect,t,,,,
+18324.0,Daily Money Team,t,,,,
+18358.0,Elite Realty Services,t,,,,
+18530.0,Titan Business Properties,t,,,,
+18626.0,REL,f,3.9,t,1994.0,"1,001 to 5,000 employees"
+18640.0,Equity Model Limited,f,2.8,t,2020.0,201 to 500 employees
+18641.0,CLINTON FUND (CF),t,,,,
+18642.0,Schleez Nigeria Limited,t,,,,
+18643.0,Bons Industries Limited,f,4.7,t,1998.0,501 to 1000 employees
+18644.0,TAMAK LOGISTICS,f,3.9,t,2005.0,11-50 employees
+18645.0,Color Sense Limited,f,3.3,t,2008.0,51 to 200 employees
+18646.0,Sylken Ltd,f,2.8,f,2001.0,201 to 500 employees
+18647.0,Leadway Assurance,f,4.3,t,2019.0,201 to 500 employees
+18648.0,HOME PLACES CONSULT,t,,,,
+18650.0,MPG RESOURCES,t,,,,
+18652.0,Copen Group,f,3.9,t,2000.0,51 to 200 employees
+18653.0,DAHLIA CONSULT,t,,,,
+18656.0,Boss Resources,t,,,,
+18658.0,Dripylux international services LTD,f,3.7,t,2017.0,2-10 employees
+18659.0,O`NEAL INCORPORATED,t,,,,
+18660.0,Buddiez Hotel & Resort,f,4.6,t,1999.0,51 to 200 employees
+18661.0,Virgin Land Careers,t,,,,
+18662.0,GroExpo,f,4.3,t,2008.0,11-50 employees
+18663.0,TG-Resource,t,,,,
+18664.0,Checkoff Finance,f,2.8,t,1983.0,51 to 200 employees
+18665.0,IVOTEC GLOBAL SERVICES LIMITED,f,3.2,t,1986.0,"1,001 to 5,000 employees"
+18667.0,ROYAL EXCHANGE FINANCE COMPANY LIMITED,f,3.1,t,2007.0,51 to 200 employees
+18668.0,Lagooz Schools,f,4.2,t,2007.0,501 to 1000 employees
+18669.0,MAKA,f,2.6,t,1983.0,11-50 employees
+18670.0,Royal Integrated Ventures,f,3.8,t,2001.0,201 to 500 employees
+18671.0,HYENA LIMITED,t,,,,
+18672.0,Kunbi's Music Company,f,4.3,t,1991.0,"1,001 to 5,000 employees"
+18673.0,DODO Design,f,4.5,t,1982.0,11-50 employees
+18674.0,U&I Artistry,f,3.3,t,2001.0,2-10 employees
+18675.0,Mactavis Technologies Limited,f,4.4,t,1981.0,51 to 200 employees
+18676.0,Developer Directory Ltd,f,2.8,t,2003.0,2-10 employees
+18677.0,Maezon Global Enterprises,f,4.4,t,2013.0,201 to 500 employees
+18678.0,Courage Enterprises LTD,f,2.8,t,2006.0,"1,001 to 5,000 employees"
+18679.0,Rockgarden Homes,f,3.4,t,2020.0,51 to 200 employees
+18680.0,Picturebox-Frames,f,4.3,t,1980.0,11-50 employees
+18681.0,BEYOND STARDOM NIGERIA LIMITED,t,,,,
+18685.0,TRUSS CONSTRUCTION AND PROPERTIES LIMITED,f,2.8,t,1987.0,51 to 200 employees
+18686.0,Fortress Microfinance Bank Ltd,f,3.0,t,2002.0,201 to 500 employees
+18687.0,SHOLAM NIGERIA LTD.,t,,,,
+18688.0,N-world global Limited,t,,,,
+18689.0,Starline Consult Nigeria Ltd,t,,,,
+18690.0,Intecil,f,4.2,t,2017.0,2-10 employees
+18691.0,VISION TECHNOLOGIST RESOURCES,t,,,,
+18692.0,Limepack ApS,f,4.2,t,1985.0,51 to 200 employees
+18693.0,The Puff Shack,f,4.0,f,2001.0,201 to 500 employees
+18694.0,PSIS HR BOARD,t,,,,
+18695.0,HUMAN CAPITAL CONSULTANTS (HCC),t,,,,
+18696.0,Vivian Fowler Memorial College For Girls,f,4.1,t,2004.0,201 to 500 employees
+18697.0,HEALTH STEAM ALLIANCE,t,,,,
+18698.0,Dominance Event and Suites,f,3.7,t,1997.0,11-50 employees
+18699.0,Xtreme Mindz Solutions Limited,f,3.1,t,1996.0,201 to 500 employees
+18701.0,MDL Global,t,,,,
+18702.0,yinbid agency service ltd,f,3.3,t,1991.0,2-10 employees
+18703.0,Wow Effect Communications,f,2.9,t,1985.0,11-50 employees
+18704.0,PSIS HR BOARD ,t,,,,
+18705.0,HUMAN CAPITAL CONSULTANTS,t,,,,
+18706.0,NEW STAR METAL INTERNATIONAL LIMITED,t,,,,
+18707.0,WESTCORP Services LTD,t,,,,
+18708.0,O'NEAL INCORPORATED ,t,,,,
+18710.0,Laderin Nigeria Ltd,f,4.6,t,2005.0,501 to 1000 employees
+18711.0,Archware Technologies international limited,f,3.8,f,2006.0,201 to 500 employees
+18712.0,ZENITH CONSULT,t,,,,
+18713.0,Limatic Limited,f,3.4,t,1987.0,2-10 employees
+18714.0,Damiltec Nig. Enterprises,f,3.6,t,1998.0,11-50 employees
+18715.0,NURAMEK LIMITED,t,,,,
+18716.0,Crestmark Technology Limited,f,4.7,t,1980.0,11-50 employees
+18718.0,HAMGAD SECURITY SERVICES LIMITED,f,2.9,t,2008.0,11-50 employees
+18719.0, Bunmi Adedayo Foundation,f,3.8,t,2014.0,11-50 employees
+18721.0,Mindset Dev,f,3.7,t,2019.0,2-10 employees
+18723.0,Axora International Ltd,f,3.9,t,1993.0,51 to 200 employees
+18725.0,Dahlia Consult,t,,,,
+18726.0,Nuramek Limited,t,,,,
+18727.0,GILBERTS GROUP,t,,,,
+18729.0,Central Realties Limited,f,2.5,t,2014.0,201 to 500 employees
+18730.0,Encknet Network,f,4.5,t,1999.0,201 to 500 employees
+18731.0,GLOBAL OIL CONSULT,t,,,,
+18732.0,Smart Child Zone,f,4.6,t,1992.0,201 to 500 employees
+18733.0,Capsgain Solutions,f,3.8,f,2017.0,2-10 employees
+18734.0,EN1 TECHNOLOGIES,f,4.1,t,1987.0,"1,001 to 5,000 employees"
+18736.0,Cholatrek,f,4.6,t,1999.0,501 to 1000 employees
+18737.0,ASTRONOMY NIGERIA LIMITED,t,,,,
+18739.0,Recruitment Hub Ng,f,4.1,t,2012.0,501 to 1000 employees
+18740.0,Crystalite Care Ventures,t,,,,
+18741.0,StarLine Consult Nigeria LTD,t,,,,
+18742.0,GDX Equip,f,2.9,f,2005.0,501 to 1000 employees
+18743.0,XL MANAGEMENT SERVICES,t,,,,
+18746.0,WASTECARE,f,3.8,f,2018.0,"1,001 to 5,000 employees"
+18748.0,NSMI Global Concept,t,,,,
+18749.0,BOSS RESOURCES,t,,,,
+18750.0,White Ribbon Alliance Nigeria,f,3.9,t,2000.0,51 to 200 employees
+18751.0,SCHLEEZ NIGERIA LIMITED,t,,,,
+18754.0,Super Star Promotions Ltd,f,3.5,t,2020.0,11-50 employees
+18755.0,SIGNATURE DESIGN GROUP,f,4.2,t,1988.0,201 to 500 employees
+18757.0,Realty Point Limited,f,4.6,t,2003.0,201 to 500 employees
+18758.0,AceSkyline Services Limited,f,4.6,t,2016.0,201 to 500 employees
+18760.0,MENNONITE ECONOMIC DEVELOPMENT ASSOCIATES (MEDA),f,3.5,t,2020.0,51 to 200 employees
+18762.0,Baccalaureate Consult,f,2.8,t,1996.0,2-10 employees
+18764.0,DONQUESTER CONSULTING,f,4.8,t,2003.0,51 to 200 employees
+18765.0,Philban Consulting,t,,,,
+18769.0,CODEWARE,f,4.4,t,2000.0,"1,001 to 5,000 employees"
+18770.0,Braincraft Limited,f,2.8,t,2018.0,51 to 200 employees
+18771.0,Soar Group,t,,,,
+18772.0,Cybertech Digitals,f,4.6,t,2020.0,51 to 200 employees
+18774.0,ESTHER BREAKTHROUGH,t,,,,
+18775.0,Consulting Capable,t,,,,
+18777.0,The Finish Limited,f,4.5,t,2018.0,11-50 employees
+18779.0,Eirchiv Energy Consult Ltd,f,3.7,t,1992.0,51 to 200 employees
+18780.0,Future Academy Africa,f,3.9,t,1990.0,501 to 1000 employees
+18782.0,Shopnext supplement store,f,3.4,t,1998.0,201 to 500 employees
+18783.0,Carmudi Nigeria,f,2.6,f,1990.0,201 to 500 employees
+18784.0,Moex Consult,f,3.3,t,1992.0,51 to 200 employees
+18785.0,DIXIhiring LLC,f,4.3,t,1980.0,201 to 500 employees
+18789.0,THE SHRED STATION,f,2.5,t,2019.0,11-50 employees
+18790.0,O'NEAL INCORPORATED,t,,,,
+18795.0,New Star Metal International Limited,t,,,,
+18797.0,SYNCREV CAREERS CORPORATE AND CONSULTANCY,t,,,,
+18798.0,Jobberman (Third Party Recruitment),f,3.3,t,1998.0,201 to 500 employees
+18800.0,NSMI GLOBAL CONCEPT,t,,,,
+18801.0,VIRTUAL HUMAN RESOURCES,t,,,,
+18802.0,Mikacomic Nigeria Limited,f,3.4,t,1991.0,51 to 200 employees
+18805.0,Locus Real Estate,f,3.7,t,1987.0,51 to 200 employees
+18807.0,Divine Pillar Academy,f,4.6,f,1987.0,201 to 500 employees
+18810.0,Unified Payment Services Limited,f,3.3,t,1991.0,"1,001 to 5,000 employees"
+18811.0,"Lohachy Farms, Epe",f,3.3,f,2012.0,2-10 employees
+18812.0,"Achievers Uninversity, Owo",f,4.2,t,2005.0,501 to 1000 employees
+18814.0,Esther Breakthrough,t,,,,
+18816.0,Kimeric Nigeria Ltd,f,3.5,t,2018.0,11-50 employees
+18817.0,Opticom Finance Limited,f,3.0,f,2007.0,51 to 200 employees
+18818.0,IGNITLYTE LIMITED COMPANY,t,,,,
+18819.0,Global Oil Consult,t,,,,
+18820.0,Jenjil Nig Ltd,f,3.5,t,1984.0,2-10 employees
+18821.0,Vision Technologist Resources,t,,,,
+18822.0,Few Platform Plus Resource,t,,,,
+18823.0,Oriental Hill,t,,,,
+18825.0,Uncle Stan's Foods,f,2.8,t,1987.0,51 to 200 employees
+18826.0,Ashglow organic and spa,f,2.9,t,2004.0,51 to 200 employees
+18828.0,Virtual Human Resources,t,,,,
+18829.0,WILLIAMS CONSULT,t,,,,
+18830.0,Makarios Consulting Services,f,3.6,t,2006.0,2-10 employees
+18831.0,PHILBAN CONSULTING,t,,,,
+18832.0,Successful Business Consult,f,3.5,t,2002.0,51 to 200 employees
+18833.0,GRACE LAND GLOBAL RESOURCES,t,,,,
+18839.0,CAKES AND CREAM,f,4.6,t,2009.0,"1,001 to 5,000 employees"
+18840.0,BETA AGE,t,,,,
