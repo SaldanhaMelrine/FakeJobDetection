@@ -1,6 +1,12 @@
 import pandas as pd
 import numpy as np
+import re
+import html
+from bs4 import BeautifulSoup
 from datetime import datetime
+import nltk
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
 
 # Load the final dataset
 df = pd.read_csv("/content/company_feature_augmented.csv")
@@ -28,14 +34,6 @@ for label in [0, 1]:
 for label in [0, 1]:
     median_val = df[df['fraudulent'] == label]['review'].median()
     df.loc[(df['fraudulent'] == label) & (df['review'].isna()), 'review'] = median_val
-
-# Derive company age from year
-current_year = datetime.now().year
-df['age'] = current_year - df['year']
-df.loc[df['year'].isna(), 'age'] = np.nan
-for label in [0, 1]:
-    median_age = df[df['fraudulent'] == label]['age'].median()
-    df.loc[(df['fraudulent'] == label) & (df['age'].isna()), 'age'] = median_age
 
 # Map company_size to numeric midpoint
 size_map = {
@@ -66,6 +64,38 @@ for col in cat_placeholder_fields:
     df[col] = df[col].fillna("Missing")
 
 df['salary_range'] = df['salary_range'].fillna("Missing")
+
+# Function to clean and normalize text
+def clean_and_normalize_text(text):
+    if pd.isna(text):
+        return text, 0
+    text = html.unescape(text)  # Decode HTML entities
+    text = BeautifulSoup(text, "html.parser").get_text()  # Strip HTML tags
+    special_count = count_special_chars(text)  # Count special chars
+    text = re.sub(r'[^\x00-\x7F]+', ' ', text)  # Remove non-ASCII
+    text = text.lower()  # Lowercase
+    text = re.sub(r'\s+', ' ', text)  # Whitespace normalization
+    return text.strip(), special_count
+
+# Stemming and stopword removal
+stop_words = set(stopwords.words('english'))
+stemmer = PorterStemmer()
+
+def remove_stopwords_and_stem(text):
+    tokens = text.split()
+    filtered = [stemmer.stem(word) for word in tokens if word not in stop_words]
+    return ' '.join(filtered)
+
+# Apply to each text field
+for field in text_fields:
+    clean_col = f"{field}_clean"
+    count_col = f"{field}_special_char_count"
+    
+    # Apply structural cleaning and count
+    df[[clean_col, count_col]] = df[field].apply(lambda x: pd.Series(clean_and_normalize_text(x)))
+    
+    # Apply stopword removal and stemming
+    df[clean_col] = df[clean_col].apply(remove_stopwords_and_stem)
 
 # Save the fully preprocessed dataset
 df.to_csv("Preprocessed_Job_Postings.csv", index=False)
