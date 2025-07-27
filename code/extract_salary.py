@@ -3,7 +3,7 @@ import re
 import numpy as np
 
 # Load preprocessed dataset
-df = pd.read_csv("/content/Preprocessed_Job_Postings.csv")
+df = pd.read_csv("/content/company_feature_augmented.csv")
 
 # Combine relevant text fields
 text_fields = ['description', 'requirements', 'benefits']
