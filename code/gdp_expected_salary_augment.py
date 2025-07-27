@@ -68,6 +68,5 @@ df['mapped_role'] = df['title'].apply(map_role_fuzzy)
 # Merge expected salary from role benchmark
 df = df.merge(salary_map, how='left', left_on='mapped_role', right_on='role')
 df.drop(columns=['role'], inplace=True)
-df.rename(columns={'expected_salary': 'role_expected_salary'}, inplace=True)
 
 df.to_csv("Final_Job_Postings.csv", index=False)
