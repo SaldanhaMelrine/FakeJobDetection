@@ -49,6 +49,7 @@ df[['min_salary', 'max_salary']] = df['text_all'].apply(extract_salary)
 df['extracted_salary'] = df.apply(
     lambda x: 'Missing' if x['min_salary'] == -1 and x['max_salary'] == -1 else 'Extracted', axis=1
 )
+df['salary_avg'] = df[['min_salary', 'max_salary']].mean(axis=1)
 
 # Save the result
 df.to_csv("/content/Job_Postings_with_Salary_Extracted.csv", index=False)
