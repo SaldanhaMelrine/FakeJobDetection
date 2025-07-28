@@ -3,10 +3,10 @@ import re
 import numpy as np
 
 # Load dataset
-df = pd.read_csv("/content/company_feature_augmented.csv")
+df = pd.read_excel("/content/Merged_Dataset.xlsx")
 
 # Combine relevant text fields
-text_fields = ['description', 'requirements', 'benefits']
+text_fields = ['description', 'benefits']
 df['text_all'] = df[text_fields].fillna('').agg(' '.join, axis=1)
 
 # Regex for salary
@@ -70,7 +70,7 @@ def extract_salary(row):
 
         if min_sal < 10000 or max_sal < 10000:
             df.at[row.name, 'extracted_salary'] = 'Missing'
-            return pd.Series([-2, -2])
+            return pd.Series([-1, -1])
 
         df.at[row.name, 'extracted_salary'] = f"{min_sal:.0f} - {max_sal:.0f}" if min_sal != max_sal else f"{min_sal:.0f}"
         return pd.Series([min_sal, max_sal])
@@ -82,8 +82,11 @@ def extract_salary(row):
 # Apply to DataFrame
 df[['min_salary', 'max_salary']] = df.apply(extract_salary, axis=1)
 
-# Salary average
+# Compute salary average
 df['salary_avg'] = df[['min_salary', 'max_salary']].mean(axis=1)
+
+# Print final shape
+print("Final dataset shape:", df.shape)
 
 # Save result
 df.to_csv("/content/Job_Postings_with_Final_Extracted_Salary.csv", index=False)
