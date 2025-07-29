@@ -5,13 +5,13 @@ company_cred
 extract_salary
 gdp_expected_salary_augment
 preprocessing
-
 Modeling:
-feature_set_a_modeling feature_set_ab_modeling feature_set_ab_tfidf_modeling
+feature_set_a_modeling 
+feature_set_ab_modeling 
+feature_set_ab_tfidf_modeling
 
-The necessary dataset files to run the codes are available in the dataset/
+The necessary dataset files to run the codes are available in the "dataset/"
 
-The Final_Job_Postings is the preprocessed training file that is used by modeling files feature_set_a_modeling, feature_set_ab_modeling, feature_set_ab_tfidf_modeling. These modeling files produce the final classification results. 
-
-The intermediate results (files) are also available. 
-Merged_Dataset: The result from running extract_company, dataset_integration, company_cred.
+The "Final_Job_Postings" is the preprocessed training file (result from preprocessing.py file) is used by modeling files feature_set_a_modeling, feature_set_ab_modeling, feature_set_ab_tfidf_modeling. These modeling files produce the final classification results. 
+The intermediate results (files) are also available in the "dataset/"
+Merged_Dataset file is the result from running extract_company, dataset_integration, company_cred files. This can be used to run files from extract_salary onwards
