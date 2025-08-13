@@ -22,6 +22,30 @@ for col in binary_fields:
 df['year'] = pd.to_numeric(df['year'], errors='coerce')
 df['Review'] = pd.to_numeric(df['Review'], errors='coerce') # Corrected column name from 'Review' to 'review'
 
+mask_company_present = company_present(df['company'])
+
+# # Imputation: year (class-wise mode)
+filled_counts = {}
+for label in [0, 1]:
+    label_mask = (df['fraudulent'] == label)
+    # Mode from rows with company present and known year
+    mode_vals = (
+        df.loc[mask_company_present & label_mask & df['year'].notna(), 'year']
+        .mode(dropna=True)
+    )
+    if not mode_vals.empty:
+        mode_year = mode_vals.iloc[0]
+        target_mask = mask_company_present & label_mask & df['year'].isna()
+        filled_counts[label] = int(target_mask.sum())
+        df.loc[target_mask, 'year'] = mode_year
+    else:
+        filled_counts[label] = 0
+
+remaining_nans_mask = df['year'].isna()
+set_to_minus1 = int(remaining_nans_mask.sum())
+df.loc[remaining_nans_mask, 'year'] = -1
+df['year'] = df['year'].astype('Int64')
+
 # Imputation: has_website (class-wise mode)
 for label in [0, 1]:
     mode_val = df[df['fraudulent'] == label]['has_website'].mode(dropna=True)
