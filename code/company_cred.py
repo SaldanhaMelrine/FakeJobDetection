@@ -11,17 +11,18 @@ augmented = augmented.drop(columns=['Unnamed: 0'], errors='ignore').rename(colum
     'employees': 'company_size'
 })
 
-emscad_only = combined_df[combined_df['company'].notna()].copy()
-nigerian_only = combined_df[combined_df['company'].isna()].copy()
+has_company = combined_df[combined_df['company'].notna()].copy()
+no_company = combined_df[combined_df['company'].isna()].copy() 
 
-# Merge company-level metadata (review, website, year, size) into EMSCAD
-emscad_augmented = emscad_only.merge(
+# Merge company-level metadata (review, website, year, size)
+has_company_augmented = has_company.merge(
     augmented[['company', 'fraudulent', 'review', 'has_website', 'year', 'company_size']],
-    on=['company', 'fraudulent'], how='left'
+    on=['company', 'fraudulent'],
+    how='left'
 )
 
-# Combine the updated EMSCAD portion with the original Nigerian records
-company_feature = pd.concat([emscad_augmented, nigerian_only], ignore_index=True)
+# Combine the augmented rows with the rows that have no company
+company_feature = pd.concat([has_company_augmented, no_company], ignore_index=True)
 
 # Save the output
 company_feature.to_csv("/content/company_feature_augmented.csv", index=False)
