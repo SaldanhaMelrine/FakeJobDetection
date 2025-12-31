@@ -19,7 +19,7 @@ def extract_company_bert(text):
         return None
     return None
     
-df.loc['company'] = df.loc['company_profile'].apply(extract_company_bert)
+df['company'] = df['company_profile'].apply(extract_company_bert)
 
 # Save the updated DataFrame
 df.to_csv("/content/EMSCAD_with_Company.csv", index=False) #Update path
